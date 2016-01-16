@@ -1,0 +1,25 @@
+<map id="src/CANTalon.cpp" name="src/CANTalon.cpp">
+<area shape="rect" id="node2" href="$_c_a_n_talon_8h.html" title="CANTalon.h" alt="" coords="659,80,753,107"/>
+<area shape="rect" id="node31" href="$_live_window_8h.html" title="LiveWindow/LiveWindow.h" alt="" coords="1721,229,1899,256"/>
+<area shape="rect" id="node41" href="$_w_p_i_errors_8h.html" title="WPIErrors.h" alt="" coords="1809,80,1904,107"/>
+<area shape="rect" id="node3" href="$_safe_p_w_m_8h.html" title="SafePWM.h" alt="" coords="570,304,663,331"/>
+<area shape="rect" id="node17" href="$_live_window_sendable_8h.html" title="LiveWindow/LiveWindowSendable.h" alt="" coords="1563,453,1796,480"/>
+<area shape="rect" id="node22" href="$_motor_safety_helper_8h.html" title="MotorSafetyHelper.h" alt="" coords="736,379,879,405"/>
+<area shape="rect" id="node24" href="$_c_a_n_speed_controller_8h.html" title="CANSpeedController.h" alt="" coords="90,155,245,181"/>
+<area shape="rect" id="node27" href="$_p_i_d_output_8h.html" title="PIDOutput.h" alt="" coords="5,304,100,331"/>
+<area shape="rect" id="node28" href="$_p_i_d_source_8h.html" title="PIDSource.h" alt="" coords="400,155,497,181"/>
+<area shape="rect" id="node29" href="$_p_i_d_interface_8h.html" title="PIDInterface.h" alt="" coords="269,155,375,181"/>
+<area shape="rect" id="node4" href="$_motor_safety_8h.html" title="MotorSafety.h" alt="" coords="405,379,509,405"/>
+<area shape="rect" id="node6" href="$_p_w_m_8h.html" title="PWM.h" alt="" coords="1055,379,1122,405"/>
+<area shape="rect" id="node7" href="$_sensor_base_8h.html" title="SensorBase.h" alt="" coords="1282,453,1386,480"/>
+<area shape="rect" id="node8" href="$_error_base_8h.html" title="ErrorBase.h" alt="" coords="1374,528,1465,555"/>
+<area shape="rect" id="node9" href="$_base_8h.html" title="Base.h" alt="" coords="1295,677,1357,704"/>
+<area shape="rect" id="node11" href="$_error_8h.html" title="Error.h" alt="" coords="1465,603,1526,629"/>
+<area shape="rect" id="node18" href="$_sendable_8h.html" title="SmartDashboard/Sendable.h" alt="" coords="1775,528,1965,555"/>
+<area shape="rect" id="node25" href="$_speed_controller_8h.html" title="SpeedController.h" alt="" coords="100,229,227,256"/>
+<area shape="rect" id="node30" href="$_controller_8h.html" title="Controller.h" alt="" coords="353,229,443,256"/>
+<area shape="rect" id="node32" href="$_scheduler_8h.html" title="Commands/Scheduler.h" alt="" coords="1483,304,1646,331"/>
+<area shape="rect" id="node33" href="$_command_8h.html" title="Commands/Command.h" alt="" coords="1368,379,1532,405"/>
+<area shape="rect" id="node34" href="$_named_sendable_8h.html" title="SmartDashboard/NamedSendable.h" alt="" coords="1820,453,2051,480"/>
+<area shape="rect" id="node36" href="$_smart_dashboard_8h.html" title="SmartDashboard/SmartDashboard.h" alt="" coords="1853,379,2087,405"/>
+</map>

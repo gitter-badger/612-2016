@@ -1,0 +1,8 @@
+<map id="StraightEdgeReport2_struct" name="StraightEdgeReport2_struct">
+<area shape="rect" id="node2" href="$struct_straight_edge__struct.html" title="StraightEdge_struct" alt="" coords="11,213,148,240"/>
+<area shape="rect" id="node3" href="$struct_edge_info__struct.html" title="EdgeInfo_struct" alt="" coords="290,109,405,136"/>
+<area shape="rect" id="node7" href="$struct_edge_report2__struct.html" title="EdgeReport2_struct" alt="" coords="354,213,493,240"/>
+<area shape="rect" id="node4" href="$struct_point_float__struct.html" title="PointFloat_struct" alt="" coords="216,5,337,32"/>
+<area shape="rect" id="node5" href="$struct_line_float__struct.html" title="LineFloat_struct" alt="" coords="151,109,266,136"/>
+<area shape="rect" id="node6" href="$struct_search_line_info__struct.html" title="SearchLineInfo_struct" alt="" coords="189,303,338,329"/>
+</map>

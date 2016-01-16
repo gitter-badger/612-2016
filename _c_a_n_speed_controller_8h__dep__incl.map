@@ -1,0 +1,8 @@
+<map id="include/CANSpeedController.h" name="include/CANSpeedController.h">
+<area shape="rect" id="node2" href="$_c_a_n_jaguar_8h.html" title="include/CANJaguar.h" alt="" coords="161,80,307,107"/>
+<area shape="rect" id="node6" href="$_c_a_n_talon_8h.html" title="include/CANTalon.h" alt="" coords="331,80,470,107"/>
+<area shape="rect" id="node3" href="$_w_p_i_lib_8h.html" title="include/WPILib.h" alt="" coords="325,155,447,181"/>
+<area shape="rect" id="node4" href="$_c_a_n_jaguar_8cpp.html" title="src/CANJaguar.cpp" alt="" coords="5,155,143,181"/>
+<area shape="rect" id="node5" href="$_robot_drive_8cpp.html" title="src/RobotDrive.cpp" alt="" coords="167,155,301,181"/>
+<area shape="rect" id="node7" href="$_c_a_n_talon_8cpp.html" title="src/CANTalon.cpp" alt="" coords="471,155,602,181"/>
+</map>

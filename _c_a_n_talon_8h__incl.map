@@ -1,0 +1,23 @@
+<map id="include/CANTalon.h" name="include/CANTalon.h">
+<area shape="rect" id="node2" href="$_safe_p_w_m_8h.html" title="SafePWM.h" alt="" coords="425,229,518,256"/>
+<area shape="rect" id="node16" href="$_live_window_sendable_8h.html" title="LiveWindow/LiveWindowSendable.h" alt="" coords="1212,379,1445,405"/>
+<area shape="rect" id="node21" href="$_motor_safety_helper_8h.html" title="MotorSafetyHelper.h" alt="" coords="823,304,965,331"/>
+<area shape="rect" id="node23" href="$_c_a_n_speed_controller_8h.html" title="CANSpeedController.h" alt="" coords="89,80,243,107"/>
+<area shape="rect" id="node26" href="$_p_i_d_output_8h.html" title="PIDOutput.h" alt="" coords="5,229,100,256"/>
+<area shape="rect" id="node27" href="$_p_i_d_source_8h.html" title="PIDSource.h" alt="" coords="2393,80,2491,107"/>
+<area shape="rect" id="node28" href="$_p_i_d_interface_8h.html" title="PIDInterface.h" alt="" coords="665,80,771,107"/>
+<area shape="rect" id="node3" href="$_motor_safety_8h.html" title="MotorSafety.h" alt="" coords="291,304,395,331"/>
+<area shape="rect" id="node5" href="$_p_w_m_8h.html" title="PWM.h" alt="" coords="631,304,698,331"/>
+<area shape="rect" id="node6" href="$_sensor_base_8h.html" title="SensorBase.h" alt="" coords="817,379,921,405"/>
+<area shape="rect" id="node7" href="$_error_base_8h.html" title="ErrorBase.h" alt="" coords="923,453,1014,480"/>
+<area shape="rect" id="node8" href="$_base_8h.html" title="Base.h" alt="" coords="761,603,824,629"/>
+<area shape="rect" id="node10" href="$_error_8h.html" title="Error.h" alt="" coords="895,528,957,555"/>
+<area shape="rect" id="node17" href="$_sendable_8h.html" title="SmartDashboard/Sendable.h" alt="" coords="1673,453,1862,480"/>
+<area shape="rect" id="node24" href="$_speed_controller_8h.html" title="SpeedController.h" alt="" coords="103,155,229,181"/>
+<area shape="rect" id="node29" href="$_controller_8h.html" title="Controller.h" alt="" coords="695,155,784,181"/>
+<area shape="rect" id="node30" href="$_live_window_8h.html" title="LiveWindow/LiveWindow.h" alt="" coords="1455,155,1634,181"/>
+<area shape="rect" id="node31" href="$_scheduler_8h.html" title="Commands/Scheduler.h" alt="" coords="1463,229,1626,256"/>
+<area shape="rect" id="node32" href="$_command_8h.html" title="Commands/Command.h" alt="" coords="1041,304,1205,331"/>
+<area shape="rect" id="node33" href="$_named_sendable_8h.html" title="SmartDashboard/NamedSendable.h" alt="" coords="1796,379,2027,405"/>
+<area shape="rect" id="node35" href="$_smart_dashboard_8h.html" title="SmartDashboard/SmartDashboard.h" alt="" coords="1799,304,2032,331"/>
+</map>

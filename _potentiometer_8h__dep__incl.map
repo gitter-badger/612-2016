@@ -1,0 +1,6 @@
+<map id="include/interfaces/Potentiometer.h" name="include/interfaces/Potentiometer.h">
+<area shape="rect" id="node2" href="$_analog_potentiometer_8h.html" title="include/AnalogPotentiometer.h" alt="" coords="103,95,301,121"/>
+<area shape="rect" id="node3" href="$_w_p_i_lib_8h.html" title="include/WPILib.h" alt="" coords="5,169,127,196"/>
+<area shape="rect" id="node5" href="$_potentiometer_8cpp.html" title="src/interfaces/Potentiometer.cpp" alt="" coords="325,95,535,121"/>
+<area shape="rect" id="node4" href="$_analog_potentiometer_8cpp.html" title="src/AnalogPotentiometer.cpp" alt="" coords="151,169,341,196"/>
+</map>

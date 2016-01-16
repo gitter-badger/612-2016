@@ -1,0 +1,14 @@
+<map id="FeatureData_struct" name="FeatureData_struct">
+<area shape="rect" id="node2" href="$struct_point_float__struct.html" title="PointFloat_struct" alt="" coords="5,289,127,316"/>
+<area shape="rect" id="node4" href="$struct_circle_feature__struct.html" title="CircleFeature_struct" alt="" coords="487,79,627,105"/>
+<area shape="rect" id="node5" href="$struct_const_curve_feature__struct.html" title="ConstCurveFeature_struct" alt="" coords="469,140,645,167"/>
+<area shape="rect" id="node6" href="$struct_closed_curve_feature__struct.html" title="ClosedCurveFeature\l_struct" alt="" coords="698,194,841,235"/>
+<area shape="rect" id="node7" href="$struct_line_feature__struct.html" title="LineFeature_struct" alt="" coords="492,261,623,288"/>
+<area shape="rect" id="node8" href="$struct_ellipse_feature__struct.html" title="EllipseFeature_struct" alt="" coords="697,323,842,349"/>
+<area shape="rect" id="node10" href="$struct_parallel_line_pair_feature__struct.html" title="ParallelLinePairFeature\l_struct" alt="" coords="285,386,441,427"/>
+<area shape="rect" id="node11" href="$struct_corner_feature__struct.html" title="CornerFeature_struct" alt="" coords="485,496,630,523"/>
+<area shape="rect" id="node12" href="$struct_leg_feature__struct.html" title="LegFeature_struct" alt="" coords="299,547,426,573"/>
+<area shape="rect" id="node13" href="$struct_rectangle_feature__struct.html" title="RectangleFeature_struct" alt="" coords="280,625,445,652"/>
+<area shape="rect" id="node3" href="$union_geometric_feature__union.html" title="GeometricFeature_union" alt="" coords="1055,323,1219,349"/>
+<area shape="rect" id="node9" href="$struct_pair_of_parallel_line_pairs_feature__struct.html" title="PairOfParallelLinePairsFeature\l_struct" alt="" coords="669,437,869,478"/>
+</map>

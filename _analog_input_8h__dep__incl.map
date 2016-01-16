@@ -1,0 +1,11 @@
+<map id="include/AnalogInput.h" name="include/AnalogInput.h">
+<area shape="rect" id="node2" href="$_analog_accelerometer_8h.html" title="include/AnalogAccelerometer.h" alt="" coords="43,80,246,107"/>
+<area shape="rect" id="node3" href="$_w_p_i_lib_8h.html" title="include/WPILib.h" alt="" coords="223,155,344,181"/>
+<area shape="rect" id="node5" href="$_analog_potentiometer_8h.html" title="include/AnalogPotentiometer.h" alt="" coords="320,80,519,107"/>
+<area shape="rect" id="node7" href="$_analog_gyro_8cpp.html" title="src/AnalogGyro.cpp" alt="" coords="543,80,680,107"/>
+<area shape="rect" id="node8" href="$_analog_input_8cpp.html" title="src/AnalogInput.cpp" alt="" coords="705,80,843,107"/>
+<area shape="rect" id="node9" href="$_analog_trigger_8cpp.html" title="src/AnalogTrigger.cpp" alt="" coords="867,80,1017,107"/>
+<area shape="rect" id="node10" href="$_driver_station_8cpp.html" title="src/DriverStation.cpp" alt="" coords="1041,80,1187,107"/>
+<area shape="rect" id="node4" href="$_analog_accelerometer_8cpp.html" title="src/AnalogAccelerometer.cpp" alt="" coords="5,155,199,181"/>
+<area shape="rect" id="node6" href="$_analog_potentiometer_8cpp.html" title="src/AnalogPotentiometer.cpp" alt="" coords="368,155,559,181"/>
+</map>

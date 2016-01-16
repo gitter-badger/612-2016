@@ -1,9 +1,0 @@
-<map id="include/Vision/BinaryImage.h" name="include/Vision/BinaryImage.h">
-<area shape="rect" id="node2" href="$_mono_image_8h.html" title="MonoImage.h" alt="" coords="226,80,327,107"/>
-<area shape="rect" id="node16" href="$_vision_a_p_i_8h.html" title="Vision/VisionAPI.h" alt="" coords="385,155,515,181"/>
-<area shape="rect" id="node3" href="$_image_base_8h.html" title="ImageBase.h" alt="" coords="179,155,278,181"/>
-<area shape="rect" id="node5" href="$nivision_8h.html" title="nivision.h" alt="" coords="411,229,489,256"/>
-<area shape="rect" id="node7" href="$_error_base_8h.html" title="ErrorBase.h" alt="" coords="183,229,274,256"/>
-<area shape="rect" id="node8" href="$_base_8h.html" title="Base.h" alt="" coords="5,379,68,405"/>
-<area shape="rect" id="node10" href="$_error_8h.html" title="Error.h" alt="" coords="130,304,191,331"/>
-</map>

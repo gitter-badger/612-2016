@@ -1,7 +1,0 @@
-<map id="ConcentricRakeReport2_struct" name="ConcentricRakeReport2_struct">
-<area shape="rect" id="node2" href="$struct_search_arc_info__struct.html" title="SearchArcInfo_struct" alt="" coords="86,315,231,341"/>
-<area shape="rect" id="node3" href="$struct_edge_report2__struct.html" title="EdgeReport2_struct" alt="" coords="85,211,224,237"/>
-<area shape="rect" id="node4" href="$struct_edge_info__struct.html" title="EdgeInfo_struct" alt="" coords="80,109,195,136"/>
-<area shape="rect" id="node5" href="$struct_point_float__struct.html" title="PointFloat_struct" alt="" coords="143,5,265,32"/>
-<area shape="rect" id="node6" href="$struct_arc_info2__struct.html" title="ArcInfo2_struct" alt="" coords="217,160,327,187"/>
-</map>

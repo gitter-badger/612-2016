@@ -1,8 +1,0 @@
-<map id="include/SampleRobot.h" name="include/SampleRobot.h">
-<area shape="rect" id="node2" href="$_robot_base_8h.html" title="RobotBase.h" alt="" coords="181,80,279,107"/>
-<area shape="rect" id="node3" href="$_base_8h.html" title="Base.h" alt="" coords="5,379,68,405"/>
-<area shape="rect" id="node5" href="$_task_8h.html" title="Task.h" alt="" coords="460,155,523,181"/>
-<area shape="rect" id="node6" href="$_error_base_8h.html" title="ErrorBase.h" alt="" coords="147,229,238,256"/>
-<area shape="rect" id="node15" href="$_task_8inc.html" title="Task.inc" alt="" coords="747,229,819,256"/>
-<area shape="rect" id="node7" href="$_error_8h.html" title="Error.h" alt="" coords="302,304,363,331"/>
-</map>

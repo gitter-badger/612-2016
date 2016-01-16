@@ -1,6 +1,0 @@
-<map id="include/Commands/CommandGroup.h" name="include/Commands/CommandGroup.h">
-<area shape="rect" id="node2" href="$_w_p_i_lib_8h.html" title="include/WPILib.h" alt="" coords="5,95,127,121"/>
-<area shape="rect" id="node3" href="$_command_8cpp.html" title="src/Commands/Command.cpp" alt="" coords="151,95,351,121"/>
-<area shape="rect" id="node4" href="$_command_group_8cpp.html" title="src/Commands/CommandGroup.cpp" alt="" coords="375,95,610,121"/>
-<area shape="rect" id="node5" href="$_wait_for_children_8cpp.html" title="src/Commands/WaitForChildren.cpp" alt="" coords="634,95,869,121"/>
-</map>

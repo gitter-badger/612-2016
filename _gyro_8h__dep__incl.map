@@ -1,9 +1,0 @@
-<map id="include/interfaces/Gyro.h" name="include/interfaces/Gyro.h">
-<area shape="rect" id="node2" href="$_gyro_base_8h.html" title="include/GyroBase.h" alt="" coords="254,95,390,121"/>
-<area shape="rect" id="node4" href="$_w_p_i_lib_8h.html" title="include/WPILib.h" alt="" coords="485,244,607,271"/>
-<area shape="rect" id="node3" href="$_a_d_x_r_s450___gyro_8h.html" title="include/ADXRS450_Gyro.h" alt="" coords="157,169,338,196"/>
-<area shape="rect" id="node6" href="$_analog_gyro_8h.html" title="include/AnalogGyro.h" alt="" coords="362,169,509,196"/>
-<area shape="rect" id="node8" href="$_gyro_base_8cpp.html" title="src/GyroBase.cpp" alt="" coords="5,169,132,196"/>
-<area shape="rect" id="node5" href="$_a_d_x_r_s450___gyro_8cpp.html" title="src/ADXRS450_Gyro.cpp" alt="" coords="128,244,300,271"/>
-<area shape="rect" id="node7" href="$_analog_gyro_8cpp.html" title="src/AnalogGyro.cpp" alt="" coords="324,244,461,271"/>
-</map>

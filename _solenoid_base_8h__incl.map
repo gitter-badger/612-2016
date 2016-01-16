@@ -1,7 +1,0 @@
-<map id="include/SolenoidBase.h" name="include/SolenoidBase.h">
-<area shape="rect" id="node2" href="$_resource_8h.html" title="Resource.h" alt="" coords="491,80,581,107"/>
-<area shape="rect" id="node13" href="$_sensor_base_8h.html" title="SensorBase.h" alt="" coords="120,80,224,107"/>
-<area shape="rect" id="node3" href="$_error_base_8h.html" title="ErrorBase.h" alt="" coords="195,155,285,181"/>
-<area shape="rect" id="node4" href="$_base_8h.html" title="Base.h" alt="" coords="98,304,161,331"/>
-<area shape="rect" id="node6" href="$_error_8h.html" title="Error.h" alt="" coords="243,229,304,256"/>
-</map>

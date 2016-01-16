@@ -1,8 +1,0 @@
-<map id="include/SolenoidBase.h" name="include/SolenoidBase.h">
-<area shape="rect" id="node2" href="$_double_solenoid_8h.html" title="include/DoubleSolenoid.h" alt="" coords="69,80,238,107"/>
-<area shape="rect" id="node5" href="$_solenoid_8h.html" title="include/Solenoid.h" alt="" coords="263,80,391,107"/>
-<area shape="rect" id="node7" href="$_solenoid_base_8cpp.html" title="src/SolenoidBase.cpp" alt="" coords="415,80,564,107"/>
-<area shape="rect" id="node3" href="$_w_p_i_lib_8h.html" title="include/WPILib.h" alt="" coords="190,155,311,181"/>
-<area shape="rect" id="node4" href="$_double_solenoid_8cpp.html" title="src/DoubleSolenoid.cpp" alt="" coords="5,155,165,181"/>
-<area shape="rect" id="node6" href="$_solenoid_8cpp.html" title="src/Solenoid.cpp" alt="" coords="335,155,454,181"/>
-</map>

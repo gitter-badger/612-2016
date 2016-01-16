@@ -1,6 +1,0 @@
-<map id="PixelValue_union" name="PixelValue_union">
-<area shape="rect" id="node2" href="$struct_r_g_b_u64_value__struct.html" title="RGBU64Value_struct" alt="" coords="5,5,153,32"/>
-<area shape="rect" id="node3" href="$struct_r_g_b_value__struct.html" title="RGBValue_struct" alt="" coords="177,5,301,32"/>
-<area shape="rect" id="node4" href="$struct_complex__struct.html" title="Complex_struct" alt="" coords="326,5,441,32"/>
-<area shape="rect" id="node5" href="$struct_h_s_l_value__struct.html" title="HSLValue_struct" alt="" coords="465,5,587,32"/>
-</map>

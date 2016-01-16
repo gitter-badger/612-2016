@@ -1,9 +1,0 @@
-<map id="include/AnalogTriggerOutput.h" name="include/AnalogTriggerOutput.h">
-<area shape="rect" id="node2" href="$_digital_source_8h.html" title="DigitalSource.h" alt="" coords="339,80,450,107"/>
-<area shape="rect" id="node3" href="$_interruptable_sensor_base_8h.html" title="InterruptableSensorBase.h" alt="" coords="307,155,483,181"/>
-<area shape="rect" id="node5" href="$_sensor_base_8h.html" title="SensorBase.h" alt="" coords="221,229,325,256"/>
-<area shape="rect" id="node15" href="$_resource_8h.html" title="Resource.h" alt="" coords="439,229,529,256"/>
-<area shape="rect" id="node6" href="$_error_base_8h.html" title="ErrorBase.h" alt="" coords="228,304,319,331"/>
-<area shape="rect" id="node7" href="$_base_8h.html" title="Base.h" alt="" coords="98,453,161,480"/>
-<area shape="rect" id="node9" href="$_error_8h.html" title="Error.h" alt="" coords="243,379,304,405"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="include/Compressor.h" name="include/Compressor.h">
-<area shape="rect" id="node3" href="$_sensor_base_8h.html" title="SensorBase.h" alt="" coords="308,80,412,107"/>
-<area shape="rect" id="node14" href="$_live_window_sendable_8h.html" title="LiveWindow/LiveWindowSendable.h" alt="" coords="458,80,691,107"/>
-<area shape="rect" id="node4" href="$_error_base_8h.html" title="ErrorBase.h" alt="" coords="315,155,405,181"/>
-<area shape="rect" id="node5" href="$_base_8h.html" title="Base.h" alt="" coords="222,304,285,331"/>
-<area shape="rect" id="node7" href="$_error_8h.html" title="Error.h" alt="" coords="387,229,448,256"/>
-<area shape="rect" id="node15" href="$_sendable_8h.html" title="SmartDashboard/Sendable.h" alt="" coords="491,155,680,181"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="include/BuiltInAccelerometer.h" name="include/BuiltInAccelerometer.h">
-<area shape="rect" id="node2" href="$_accelerometer_8h.html" title="interfaces/Accelerometer.h" alt="" coords="100,80,279,107"/>
-<area shape="rect" id="node3" href="$_sensor_base_8h.html" title="SensorBase.h" alt="" coords="303,80,407,107"/>
-<area shape="rect" id="node13" href="$_live_window_sendable_8h.html" title="LiveWindow/LiveWindowSendable.h" alt="" coords="453,80,686,107"/>
-<area shape="rect" id="node4" href="$_error_base_8h.html" title="ErrorBase.h" alt="" coords="309,155,400,181"/>
-<area shape="rect" id="node5" href="$_base_8h.html" title="Base.h" alt="" coords="222,304,285,331"/>
-<area shape="rect" id="node7" href="$_error_8h.html" title="Error.h" alt="" coords="387,229,448,256"/>
-<area shape="rect" id="node14" href="$_sendable_8h.html" title="SmartDashboard/Sendable.h" alt="" coords="485,155,675,181"/>
-</map>

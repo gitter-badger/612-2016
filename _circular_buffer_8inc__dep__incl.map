@@ -1,6 +1,0 @@
-<map id="include/CircularBuffer.inc" name="include/CircularBuffer.inc">
-<area shape="rect" id="node2" href="$_circular_buffer_8h.html" title="include/CircularBuffer.h" alt="" coords="68,80,227,107"/>
-<area shape="rect" id="node3" href="$_linear_digital_filter_8h.html" title="include/Filters/LinearDigital\lFilter.h" alt="" coords="58,155,237,196"/>
-<area shape="rect" id="node4" href="$_w_p_i_lib_8h.html" title="include/WPILib.h" alt="" coords="5,251,127,278"/>
-<area shape="rect" id="node5" href="$_linear_digital_filter_8cpp.html" title="src/Filters/LinearDigital\lFilter.cpp" alt="" coords="151,244,307,285"/>
-</map>

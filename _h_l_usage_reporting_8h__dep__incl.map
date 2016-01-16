@@ -1,8 +1,0 @@
-<map id="include/HLUsageReporting.h" name="include/HLUsageReporting.h">
-<area shape="rect" id="node2" href="$_hardware_h_l_reporting_8h.html" title="include/Internal/Hardware\lHLReporting.h" alt="" coords="135,80,305,121"/>
-<area shape="rect" id="node4" href="$_robot_base_8cpp.html" title="src/RobotBase.cpp" alt="" coords="275,169,410,196"/>
-<area shape="rect" id="node5" href="$_scheduler_8cpp.html" title="src/Commands/Scheduler.cpp" alt="" coords="379,87,578,114"/>
-<area shape="rect" id="node6" href="$_h_l_usage_reporting_8cpp.html" title="src/HLUsageReporting.cpp" alt="" coords="602,87,782,114"/>
-<area shape="rect" id="node7" href="$_smart_dashboard_8cpp.html" title="src/SmartDashboard\l/SmartDashboard.cpp" alt="" coords="807,80,956,121"/>
-<area shape="rect" id="node3" href="$_hardware_h_l_reporting_8cpp.html" title="src/Internal/HardwareHLReporting.cpp" alt="" coords="5,169,251,196"/>
-</map>

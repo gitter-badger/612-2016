@@ -1,9 +1,0 @@
-<map id="include/DigitalInput.h" name="include/DigitalInput.h">
-<area shape="rect" id="node2" href="$_w_p_i_lib_8h.html" title="include/WPILib.h" alt="" coords="5,80,127,107"/>
-<area shape="rect" id="node3" href="$_a_d_x_l345___s_p_i_8cpp.html" title="src/ADXL345_SPI.cpp" alt="" coords="151,80,306,107"/>
-<area shape="rect" id="node4" href="$_a_d_x_l362_8cpp.html" title="src/ADXL362.cpp" alt="" coords="330,80,455,107"/>
-<area shape="rect" id="node5" href="$_counter_8cpp.html" title="src/Counter.cpp" alt="" coords="479,80,594,107"/>
-<area shape="rect" id="node6" href="$_digital_input_8cpp.html" title="src/DigitalInput.cpp" alt="" coords="619,80,753,107"/>
-<area shape="rect" id="node7" href="$_encoder_8cpp.html" title="src/Encoder.cpp" alt="" coords="778,80,895,107"/>
-<area shape="rect" id="node8" href="$_ultrasonic_8cpp.html" title="src/Ultrasonic.cpp" alt="" coords="919,80,1047,107"/>
-</map>

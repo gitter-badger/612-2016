@@ -1,0 +1,12 @@
+<map id="include/Controller.h" name="include/Controller.h">
+<area shape="rect" id="node2" href="$_p_i_d_interface_8h.html" title="include/PIDInterface.h" alt="" coords="259,80,411,107"/>
+<area shape="rect" id="node6" href="$_p_i_d_controller_8h.html" title="include/PIDController.h" alt="" coords="369,155,527,181"/>
+<area shape="rect" id="node3" href="$_c_a_n_talon_8h.html" title="include/CANTalon.h" alt="" coords="104,155,243,181"/>
+<area shape="rect" id="node4" href="$_w_p_i_lib_8h.html" title="include/WPILib.h" alt="" coords="229,304,350,331"/>
+<area shape="rect" id="node5" href="$_c_a_n_talon_8cpp.html" title="src/CANTalon.cpp" alt="" coords="5,229,136,256"/>
+<area shape="rect" id="node7" href="$_p_i_d_command_8h.html" title="include/Commands/PIDCommand.h" alt="" coords="435,229,667,256"/>
+<area shape="rect" id="node9" href="$_p_i_d_subsystem_8h.html" title="include/Commands/PIDSubsystem.h" alt="" coords="691,229,930,256"/>
+<area shape="rect" id="node10" href="$_p_i_d_subsystem_8cpp.html" title="src/Commands/PIDSubsystem.cpp" alt="" coords="775,304,1004,331"/>
+<area shape="rect" id="node11" href="$_p_i_d_controller_8cpp.html" title="src/PIDController.cpp" alt="" coords="262,229,410,256"/>
+<area shape="rect" id="node8" href="$_p_i_d_command_8cpp.html" title="src/Commands/PIDCommand.cpp" alt="" coords="439,304,662,331"/>
+</map>

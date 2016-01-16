@@ -1,0 +1,10 @@
+<map id="include/Vision/ColorImage.h" name="include/Vision/ColorImage.h">
+<area shape="rect" id="node2" href="$_axis_camera_8h.html" title="include/Vision/AxisCamera.h" alt="" coords="5,155,196,181"/>
+<area shape="rect" id="node3" href="$_w_p_i_lib_8h.html" title="include/WPILib.h" alt="" coords="220,229,341,256"/>
+<area shape="rect" id="node5" href="$_h_s_l_image_8h.html" title="include/Vision/HSLImage.h" alt="" coords="272,80,452,107"/>
+<area shape="rect" id="node7" href="$_r_g_b_image_8h.html" title="include/Vision/RGBImage.h" alt="" coords="476,80,659,107"/>
+<area shape="rect" id="node9" href="$_color_image_8cpp.html" title="src/Vision/ColorImage.cpp" alt="" coords="683,80,859,107"/>
+<area shape="rect" id="node4" href="$_axis_camera_8cpp.html" title="src/Vision/AxisCamera.cpp" alt="" coords="10,229,191,256"/>
+<area shape="rect" id="node6" href="$_h_s_l_image_8cpp.html" title="src/Vision/HSLImage.cpp" alt="" coords="322,155,493,181"/>
+<area shape="rect" id="node8" href="$_r_g_b_image_8cpp.html" title="src/Vision/RGBImage.cpp" alt="" coords="568,155,743,181"/>
+</map>

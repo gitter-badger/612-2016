@@ -1,0 +1,7 @@
+<map id="GetCalibrationInfoReport_struct" name="GetCalibrationInfoReport_struct">
+<area shape="rect" id="node2" href="$struct_error_statistics__struct.html" title="ErrorStatistics_struct" alt="" coords="229,5,375,32"/>
+<area shape="rect" id="node3" href="$struct_grid_descriptor__struct.html" title="GridDescriptor_struct" alt="" coords="229,56,375,83"/>
+<area shape="rect" id="node4" href="$struct_calibration_learn_setup_info__struct.html" title="CalibrationLearnSetupInfo\l_struct" alt="" coords="216,107,388,149"/>
+<area shape="rect" id="node5" href="$struct_calibration_axis_info__struct.html" title="CalibrationAxisInfo\l_struct" alt="" coords="236,173,368,214"/>
+<area shape="rect" id="node6" href="$struct_point_float__struct.html" title="PointFloat_struct" alt="" coords="5,180,127,207"/>
+</map>

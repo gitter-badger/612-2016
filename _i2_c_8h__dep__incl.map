@@ -1,0 +1,6 @@
+<map id="include/I2C.h" name="include/I2C.h">
+<area shape="rect" id="node2" href="$_a_d_x_l345___i2_c_8h.html" title="include/ADXL345_I2C.h" alt="" coords="85,80,247,107"/>
+<area shape="rect" id="node3" href="$_w_p_i_lib_8h.html" title="include/WPILib.h" alt="" coords="5,155,127,181"/>
+<area shape="rect" id="node4" href="$_a_d_x_l345___i2_c_8cpp.html" title="src/ADXL345_I2C.cpp" alt="" coords="188,155,341,181"/>
+<area shape="rect" id="node5" href="$_i2_c_8cpp.html" title="src/I2C.cpp" alt="" coords="322,80,413,107"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="include/Talon.h" name="include/Talon.h">
+<area shape="rect" id="node2" href="$_safe_p_w_m_8h.html" title="SafePWM.h" alt="" coords="501,80,595,107"/>
+<area shape="rect" id="node23" href="$_speed_controller_8h.html" title="SpeedController.h" alt="" coords="1051,80,1178,107"/>
+<area shape="rect" id="node25" href="$_p_i_d_output_8h.html" title="PIDOutput.h" alt="" coords="1017,155,1111,181"/>
+<area shape="rect" id="node3" href="$_motor_safety_8h.html" title="MotorSafety.h" alt="" coords="313,155,417,181"/>
+<area shape="rect" id="node5" href="$_p_w_m_8h.html" title="PWM.h" alt="" coords="561,155,628,181"/>
+<area shape="rect" id="node21" href="$_motor_safety_helper_8h.html" title="MotorSafetyHelper.h" alt="" coords="89,229,231,256"/>
+<area shape="rect" id="node6" href="$_sensor_base_8h.html" title="SensorBase.h" alt="" coords="349,229,453,256"/>
+<area shape="rect" id="node16" href="$_live_window_sendable_8h.html" title="LiveWindow/LiveWindowSendable.h" alt="" coords="478,229,711,256"/>
+<area shape="rect" id="node7" href="$_error_base_8h.html" title="ErrorBase.h" alt="" coords="220,304,311,331"/>
+<area shape="rect" id="node8" href="$_base_8h.html" title="Base.h" alt="" coords="417,453,479,480"/>
+<area shape="rect" id="node10" href="$_error_8h.html" title="Error.h" alt="" coords="251,379,312,405"/>
+<area shape="rect" id="node17" href="$_sendable_8h.html" title="SmartDashboard/Sendable.h" alt="" coords="523,304,712,331"/>
+</map>

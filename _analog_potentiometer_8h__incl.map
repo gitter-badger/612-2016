@@ -1,0 +1,11 @@
+<map id="include/AnalogPotentiometer.h" name="include/AnalogPotentiometer.h">
+<area shape="rect" id="node2" href="$_analog_input_8h.html" title="AnalogInput.h" alt="" coords="304,80,407,107"/>
+<area shape="rect" id="node15" href="$_live_window_sendable_8h.html" title="LiveWindow/LiveWindowSendable.h" alt="" coords="681,155,915,181"/>
+<area shape="rect" id="node19" href="$_potentiometer_8h.html" title="interfaces/Potentiometer.h" alt="" coords="431,80,605,107"/>
+<area shape="rect" id="node4" href="$_sensor_base_8h.html" title="SensorBase.h" alt="" coords="162,155,266,181"/>
+<area shape="rect" id="node14" href="$_p_i_d_source_8h.html" title="PIDSource.h" alt="" coords="508,155,605,181"/>
+<area shape="rect" id="node5" href="$_error_base_8h.html" title="ErrorBase.h" alt="" coords="130,229,221,256"/>
+<area shape="rect" id="node6" href="$_base_8h.html" title="Base.h" alt="" coords="173,379,236,405"/>
+<area shape="rect" id="node8" href="$_error_8h.html" title="Error.h" alt="" coords="274,304,335,331"/>
+<area shape="rect" id="node16" href="$_sendable_8h.html" title="SmartDashboard/Sendable.h" alt="" coords="689,229,878,256"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="include/Relay.h" name="include/Relay.h">
+<area shape="rect" id="node2" href="$_motor_safety_8h.html" title="MotorSafety.h" alt="" coords="12,80,116,107"/>
+<area shape="rect" id="node4" href="$_sensor_base_8h.html" title="SensorBase.h" alt="" coords="163,80,267,107"/>
+<area shape="rect" id="node15" href="$_live_window_sendable_8h.html" title="LiveWindow/LiveWindowSendable.h" alt="" coords="521,80,754,107"/>
+<area shape="rect" id="node5" href="$_error_base_8h.html" title="ErrorBase.h" alt="" coords="229,155,320,181"/>
+<area shape="rect" id="node6" href="$_base_8h.html" title="Base.h" alt="" coords="277,304,339,331"/>
+<area shape="rect" id="node8" href="$_error_8h.html" title="Error.h" alt="" coords="395,229,456,256"/>
+<area shape="rect" id="node16" href="$_sendable_8h.html" title="SmartDashboard/Sendable.h" alt="" coords="543,155,732,181"/>
+</map>

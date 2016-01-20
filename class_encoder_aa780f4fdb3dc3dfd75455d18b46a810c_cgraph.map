@@ -1,0 +1,7 @@
+<map id="Encoder::PIDGet" name="Encoder::PIDGet">
+<area shape="rect" id="node2" href="$class_error_base.html#a05790f219c9e436a09752f73f7344024" title="Check if the current error code represents a fatal error. " alt="" coords="559,57,725,83"/>
+<area shape="rect" id="node3" href="$class_encoder.html#ab7ed03baec327be6b31e40e947b5bf80" title="Encoder::GetDistance" alt="" coords="176,31,327,58"/>
+<area shape="rect" id="node5" href="$class_encoder.html#a3e1a51b5fa29ac093dcd2c9db9797a5c" title="Encoder::GetRate" alt="" coords="188,107,315,134"/>
+<area shape="rect" id="node4" href="$class_encoder.html#a4317130e766c0f85c03f593c555ef76a" title="Encoder::GetRaw" alt="" coords="379,57,506,83"/>
+<area shape="rect" id="node6" href="$class_encoder.html#a877e245a26404fa35303188ac0fca05b" title="Encoder::GetPeriod" alt="" coords="375,158,511,185"/>
+</map>

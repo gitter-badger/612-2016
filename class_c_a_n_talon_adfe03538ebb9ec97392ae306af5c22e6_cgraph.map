@@ -1,0 +1,11 @@
+<map id="CANTalon::UpdateTable" name="CANTalon::UpdateTable">
+<area shape="rect" id="node2" href="$class_c_a_n_talon.html#a701df7e254b4e6731bff57e7ae19d330" title="CANTalon::GetP" alt="" coords="253,5,375,32"/>
+<area shape="rect" id="node3" href="$class_c_a_n_talon.html#a29c00b36b915c21c5ae10c3cf64ce244" title="CANTalon::GetI" alt="" coords="256,56,372,83"/>
+<area shape="rect" id="node4" href="$class_c_a_n_talon.html#aeae71b2de2e9c711f46a9a2e3ce08282" title="CANTalon::GetD" alt="" coords="253,107,375,133"/>
+<area shape="rect" id="node5" href="$class_c_a_n_talon.html#aacc607ab74ad51b017e702e34faadb36" title="CANTalon::GetF" alt="" coords="254,157,374,184"/>
+<area shape="rect" id="node6" href="$class_c_a_n_talon.html#a0c3c7318db9a6bf0208eab9300d92fb2" title="CANTalon::IsControlEnabled" alt="" coords="219,208,409,235"/>
+<area shape="rect" id="node7" href="$class_c_a_n_talon.html#a990feef6259267c7536cfd6cd094a21b" title="CANTalon::Get" alt="" coords="258,259,370,285"/>
+<area shape="rect" id="node8" href="$class_c_a_n_talon.html#a24dd3a261aa1e5792855f233ccbb2ddd" title="CANTalon::GetOutputVoltage" alt="" coords="457,233,652,260"/>
+<area shape="rect" id="node10" href="$class_c_a_n_talon.html#a47d61e3fe91aea4b8c6a6638e122150a" title="CANTalon::GetOutputCurrent" alt="" coords="457,284,652,311"/>
+<area shape="rect" id="node9" href="$class_c_a_n_talon.html#a438bc3ae134c8e4ee4e905c978df199c" title="CANTalon::GetBusVoltage" alt="" coords="700,233,879,260"/>
+</map>

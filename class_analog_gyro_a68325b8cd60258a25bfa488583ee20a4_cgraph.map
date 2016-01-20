@@ -1,0 +1,7 @@
+<map id="AnalogGyro::InitGyro" name="AnalogGyro::InitGyro">
+<area shape="rect" id="node2" href="$class_error_base.html#a05790f219c9e436a09752f73f7344024" title="Check if the current error code represents a fatal error. " alt="" coords="452,11,619,38"/>
+<area shape="rect" id="node3" href="$class_analog_gyro.html#a8365210952acb5adf181d5ed953ecba6" title="AnalogGyro::SetDeadband" alt="" coords="212,36,389,63"/>
+<area shape="rect" id="node4" href="$class_p_i_d_source.html#a592e519cdb965fe969700af4de4ac3ea" title="PIDSource::SetPIDSourceType" alt="" coords="197,87,404,114"/>
+<area shape="rect" id="node5" href="$class_live_window.html#a329c07efec22a0e0644d70279688aa35" title="LiveWindow::GetInstance" alt="" coords="215,138,387,164"/>
+<area shape="rect" id="node6" href="$class_live_window.html#a9e627ca9e7af33b9d11a4a501de3664d" title="Use a raw pointer to the LiveWindow. " alt="" coords="218,188,383,215"/>
+</map>

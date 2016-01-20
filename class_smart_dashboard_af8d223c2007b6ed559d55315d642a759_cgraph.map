@@ -1,0 +1,4 @@
+<map id="SmartDashboard::PutData" name="SmartDashboard::PutData">
+<area shape="rect" id="node2" href="$class_sendable.html#a09ad8ce017aa259b53eb620ca764034e" title="Sendable::GetSmartDashboardType" alt="" coords="229,5,461,32"/>
+<area shape="rect" id="node3" href="$class_sendable.html#a1dcaa150e25d4f00a9d193691d15ea51" title="Sendable::InitTable" alt="" coords="278,56,413,83"/>
+</map>

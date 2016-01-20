@@ -1,0 +1,9 @@
+<map id="PIDController::Calculate" name="PIDController::Calculate">
+<area shape="rect" id="node2" href="$class_p_i_d_controller.html#a998ac69916042ce04345082f13a894f6" title="PIDController::Calculate\lFeedForward" alt="" coords="217,49,381,90"/>
+<area shape="rect" id="node3" href="$class_p_i_d_controller.html#a7b6ef054f4386ce69e99ade772b840f0" title="PIDController::GetSetpoint" alt="" coords="445,5,623,32"/>
+<area shape="rect" id="node4" href="$class_p_i_d_controller.html#a6665c6721276a9615e330edcfcb2616f" title="PIDController::GetDeltaSetpoint" alt="" coords="429,56,639,83"/>
+<area shape="rect" id="node8" href="$class_timer.html#ae7c0c1e7d12de4b8a6e7c64e451cdd2a" title="Timer::Reset" alt="" coords="687,107,785,133"/>
+<area shape="rect" id="node5" href="$class_timer.html#aaff4f164cd01bf801915066eabd654a7" title="Timer::Get" alt="" coords="694,56,778,83"/>
+<area shape="rect" id="node6" href="$class_timer.html#a7fa6e6dffec055e5104ccd6bcadec9aa" title="Timer::GetFPGATimestamp" alt="" coords="833,81,1019,108"/>
+<area shape="rect" id="node7" href="$_utility_8h.html#a3f05510330a94789dc4d273f43ba55c8" title="GetFPGATime" alt="" coords="1067,81,1175,108"/>
+</map>

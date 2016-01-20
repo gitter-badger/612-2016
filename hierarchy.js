@@ -19,10 +19,7 @@ var hierarchy =
     [ "CANInterfacePlugin", "class_c_a_n_interface_plugin.html", null ],
     [ "CircularBuffer< T >", "class_circular_buffer.html", null ],
     [ "CircularBuffer< double >", "class_circular_buffer.html", null ],
-    [ "Color2_union", "union_color2__union.html", null ],
-    [ "Color_union", "union_color__union.html", null ],
     [ "CommandGroupEntry", "class_command_group_entry.html", null ],
-    [ "ContourUnion_union", "union_contour_union__union.html", null ],
     [ "Controller", "class_controller.html", [
       [ "PIDInterface", "class_p_i_d_interface.html", [
         [ "CANTalon", "class_c_a_n_talon.html", null ],
@@ -30,7 +27,6 @@ var hierarchy =
       ] ]
     ] ],
     [ "ControllerPower", "class_controller_power.html", null ],
-    [ "ControlWord_t", "struct_control_word__t.html", null ],
     [ "CounterBase", "class_counter_base.html", [
       [ "Counter", "class_counter.html", [
         [ "GearTooth", "class_gear_tooth.html", null ]
@@ -127,7 +123,6 @@ var hierarchy =
     [ "GenericHID", "class_generic_h_i_d.html", [
       [ "Joystick", "class_joystick.html", null ]
     ] ],
-    [ "GeometricFeature_union", "union_geometric_feature__union.html", null ],
     [ "Gyro", "class_gyro.html", [
       [ "GyroBase", "class_gyro_base.html", null ]
     ] ],
@@ -149,8 +144,6 @@ var hierarchy =
       [ "Relay", "class_relay.html", null ],
       [ "Solenoid", "class_solenoid.html", null ]
     ] ],
-    [ "JoystickAxes_t", "struct_joystick_axes__t.html", null ],
-    [ "JoystickPOV_t", "struct_joystick_p_o_v__t.html", null ],
     [ "LiveWindow", "class_live_window.html", null ],
     [ "LiveWindowComponent", "struct_live_window_component.html", null ],
     [ "CANTalon::MotionProfileStatus", "struct_c_a_n_talon_1_1_motion_profile_status.html", null ],
@@ -163,7 +156,6 @@ var hierarchy =
     ] ],
     [ "NullDeleter< T >", "struct_null_deleter.html", null ],
     [ "pcre_callout_block", "structpcre__callout__block.html", null ],
-    [ "pcre_extra", "structpcre__extra.html", null ],
     [ "PIDOutput", "class_p_i_d_output.html", [
       [ "PIDCommand", "class_p_i_d_command.html", null ],
       [ "PIDSubsystem", "class_p_i_d_subsystem.html", null ],
@@ -197,7 +189,6 @@ var hierarchy =
       ] ],
       [ "Ultrasonic", "class_ultrasonic.html", null ]
     ] ],
-    [ "PixelValue_union", "union_pixel_value__union.html", null ],
     [ "CameraServer::Request", "struct_camera_server_1_1_request.html", null ],
     [ "RobotBase", "class_robot_base.html", [
       [ "IterativeRobot", "class_iterative_robot.html", null ],

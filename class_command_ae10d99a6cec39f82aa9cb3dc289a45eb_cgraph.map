@@ -1,0 +1,9 @@
+<map id="Command::Run" name="Command::Run">
+<area shape="rect" id="node2" href="$class_command.html#af566114c4b517ef22d8c7820c171b8b2" title="Command::Cancel" alt="" coords="181,5,311,32"/>
+<area shape="rect" id="node5" href="$class_command.html#a87b1d02e1f617c9ccee2e05a6d85d510" title="Command::IsCanceled" alt="" coords="168,56,324,83"/>
+<area shape="rect" id="node6" href="$class_command.html#a35b4c5ab42d8190791863cc8f1224231" title="Command::Initialize" alt="" coords="177,107,315,133"/>
+<area shape="rect" id="node7" href="$class_command.html#a484c34647660fcfc8ee46b04ad5b32b6" title="Command::Execute" alt="" coords="177,157,315,184"/>
+<area shape="rect" id="node8" href="$class_command.html#a350a1e6657cd59f177f55e8451e60aa9" title="Command::IsFinished" alt="" coords="171,208,321,235"/>
+<area shape="rect" id="node3" href="$class_command.html#a2e36a819254da2bb9badb3227bdfe336" title="Command::_Cancel" alt="" coords="372,5,511,32"/>
+<area shape="rect" id="node4" href="$class_command.html#aa75c36ffcfd20a172306750bc1db2a95" title="Command::IsRunning" alt="" coords="559,5,708,32"/>
+</map>

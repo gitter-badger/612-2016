@@ -1,0 +1,5 @@
+<map id="Counter::Counter" name="Counter::Counter">
+<area shape="rect" id="node2" href="$class_counter.html#a8abf01f2594d96b85ac3f76ab8f1257e" title="Counter::SetUpSource" alt="" coords="190,5,345,32"/>
+<area shape="rect" id="node4" href="$class_counter.html#a14f57c89d5e20d5ca590877dcc6be50f" title="Counter::ClearDownSource" alt="" coords="176,56,359,83"/>
+<area shape="rect" id="node3" href="$class_error_base.html#a05790f219c9e436a09752f73f7344024" title="Check if the current error code represents a fatal error. " alt="" coords="407,31,573,57"/>
+</map>

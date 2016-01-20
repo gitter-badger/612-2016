@@ -1,0 +1,4 @@
+<map id="DigitalInput::UpdateTable" name="DigitalInput::UpdateTable">
+<area shape="rect" id="node2" href="$class_digital_input.html#ad1bf0454ff6490947a7d051cd250d2c7" title="DigitalInput::Get" alt="" coords="224,5,341,32"/>
+<area shape="rect" id="node3" href="$class_error_base.html#a05790f219c9e436a09752f73f7344024" title="Check if the current error code represents a fatal error. " alt="" coords="389,5,556,32"/>
+</map>

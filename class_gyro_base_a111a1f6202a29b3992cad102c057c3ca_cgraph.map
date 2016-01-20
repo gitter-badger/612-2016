@@ -1,0 +1,4 @@
+<map id="GyroBase::PIDGet" name="GyroBase::PIDGet">
+<area shape="rect" id="node2" href="$class_gyro.html#a6ffeb961f5e5d85ec14444a47778c245" title="Gyro::GetRate" alt="" coords="188,5,295,32"/>
+<area shape="rect" id="node3" href="$class_gyro.html#a9fb9833087bd22b3ff1e4ac7656e7955" title="Gyro::GetAngle" alt="" coords="185,56,297,83"/>
+</map>

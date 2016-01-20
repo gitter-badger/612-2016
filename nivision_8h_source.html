@@ -4081,7 +4081,7 @@ $(document).ready(function(){initNavTree('nivision_8h_source.html','');});
 <div class="line"><a name="l04005"></a><span class="lineno"> 4005</span>&#160;<span class="keyword">typedef</span> <span class="keyword">struct </span>ParallelLinePairFeature_struct ParallelLinePairFeature;</div>
 <div class="line"><a name="l04006"></a><span class="lineno"> 4006</span>&#160;<span class="keyword">typedef</span> <span class="keyword">struct </span>PairOfParallelLinePairsFeature_struct</div>
 <div class="line"><a name="l04007"></a><span class="lineno"> 4007</span>&#160;    PairOfParallelLinePairsFeature;</div>
-<div class="line"><a name="l04008"></a><span class="lineno"> 4008</span>&#160;<span class="keyword">typedef</span> <span class="keyword">union </span><a class="code" href="union_geometric_feature__union.html">GeometricFeature_union</a> <a class="code" href="union_geometric_feature__union.html">GeometricFeature</a>;</div>
+<div class="line"><a name="l04008"></a><span class="lineno"> 4008</span>&#160;<span class="keyword">typedef</span> <span class="keyword">union </span>GeometricFeature_union GeometricFeature;</div>
 <div class="line"><a name="l04009"></a><span class="lineno"> 4009</span>&#160;<span class="keyword">typedef</span> <span class="keyword">struct </span>FeatureData_struct FeatureData;</div>
 <div class="line"><a name="l04010"></a><span class="lineno"> 4010</span>&#160;<span class="keyword">typedef</span> <span class="keyword">struct </span>GeometricPatternMatch2_struct GeometricPatternMatch2;</div>
 <div class="line"><a name="l04011"></a><span class="lineno"> 4011</span>&#160;<span class="keyword">typedef</span> <span class="keyword">struct </span>ClosedCurveFeature_struct ClosedCurveFeature;</div>
@@ -4124,7 +4124,7 @@ $(document).ready(function(){initNavTree('nivision_8h_source.html','');});
 <div class="line"><a name="l04048"></a><span class="lineno"> 4048</span>&#160;<span class="keyword">typedef</span> <span class="keyword">struct </span>HSIValue_struct HSIValue;</div>
 <div class="line"><a name="l04049"></a><span class="lineno"> 4049</span>&#160;<span class="keyword">typedef</span> <span class="keyword">struct </span>CIELabValue_struct CIELabValue;</div>
 <div class="line"><a name="l04050"></a><span class="lineno"> 4050</span>&#160;<span class="keyword">typedef</span> <span class="keyword">struct </span>CIEXYZValue_struct CIEXYZValue;</div>
-<div class="line"><a name="l04051"></a><span class="lineno"> 4051</span>&#160;<span class="keyword">typedef</span> <span class="keyword">union </span><a class="code" href="union_color2__union.html">Color2_union</a> <a class="code" href="union_color2__union.html">Color2</a>;</div>
+<div class="line"><a name="l04051"></a><span class="lineno"> 4051</span>&#160;<span class="keyword">typedef</span> <span class="keyword">union </span>Color2_union Color2;</div>
 <div class="line"><a name="l04052"></a><span class="lineno"> 4052</span>&#160;<span class="keyword">typedef</span> <span class="keyword">struct </span>BestEllipse2_struct BestEllipse2;</div>
 <div class="line"><a name="l04053"></a><span class="lineno"> 4053</span>&#160;<span class="keyword">typedef</span> <span class="keyword">struct </span>LearnPatternAdvancedOptions_struct LearnPatternAdvancedOptions;</div>
 <div class="line"><a name="l04054"></a><span class="lineno"> 4054</span>&#160;<span class="keyword">typedef</span> <span class="keyword">struct </span>AVIInfo_struct AVIInfo;</div>
@@ -4188,7 +4188,7 @@ $(document).ready(function(){initNavTree('nivision_8h_source.html','');});
 <div class="line"><a name="l04112"></a><span class="lineno"> 4112</span>&#160;<span class="keyword">typedef</span> <span class="keyword">struct </span>ConcentricRakeReport_struct ConcentricRakeReport;</div>
 <div class="line"><a name="l04113"></a><span class="lineno"> 4113</span>&#160;<span class="keyword">typedef</span> <span class="keyword">struct </span>ConstructROIOptions_struct ConstructROIOptions;</div>
 <div class="line"><a name="l04114"></a><span class="lineno"> 4114</span>&#160;<span class="keyword">typedef</span> <span class="keyword">struct </span>ContourInfo_struct ContourInfo;</div>
-<div class="line"><a name="l04115"></a><span class="lineno"> 4115</span>&#160;<span class="keyword">typedef</span> <span class="keyword">union </span><a class="code" href="union_contour_union__union.html">ContourUnion_union</a> <a class="code" href="union_contour_union__union.html">ContourUnion</a>;</div>
+<div class="line"><a name="l04115"></a><span class="lineno"> 4115</span>&#160;<span class="keyword">typedef</span> <span class="keyword">union </span>ContourUnion_union ContourUnion;</div>
 <div class="line"><a name="l04116"></a><span class="lineno"> 4116</span>&#160;<span class="keyword">typedef</span> <span class="keyword">struct </span>ContourInfo2_struct ContourInfo2;</div>
 <div class="line"><a name="l04117"></a><span class="lineno"> 4117</span>&#160;<span class="keyword">typedef</span> <span class="keyword">struct </span>ContourPoint_struct ContourPoint;</div>
 <div class="line"><a name="l04118"></a><span class="lineno"> 4118</span>&#160;<span class="keyword">typedef</span> <span class="keyword">struct </span>CoordinateTransform_struct CoordinateTransform;</div>
@@ -4199,8 +4199,8 @@ $(document).ready(function(){initNavTree('nivision_8h_source.html','');});
 <div class="line"><a name="l04123"></a><span class="lineno"> 4123</span>&#160;<span class="keyword">typedef</span> <span class="keyword">struct </span>View3DOptions_struct View3DOptions;</div>
 <div class="line"><a name="l04124"></a><span class="lineno"> 4124</span>&#160;<span class="keyword">typedef</span> <span class="keyword">struct </span>MatchPatternOptions_struct MatchPatternOptions;</div>
 <div class="line"><a name="l04125"></a><span class="lineno"> 4125</span>&#160;<span class="keyword">typedef</span> <span class="keyword">struct </span>TIFFFileOptions_struct TIFFFileOptions;</div>
-<div class="line"><a name="l04126"></a><span class="lineno"> 4126</span>&#160;<span class="keyword">typedef</span> <span class="keyword">union </span><a class="code" href="union_color__union.html">Color_union</a> <a class="code" href="union_color__union.html">Color</a>;</div>
-<div class="line"><a name="l04127"></a><span class="lineno"> 4127</span>&#160;<span class="keyword">typedef</span> <span class="keyword">union </span><a class="code" href="union_pixel_value__union.html">PixelValue_union</a> <a class="code" href="union_pixel_value__union.html">PixelValue</a>;</div>
+<div class="line"><a name="l04126"></a><span class="lineno"> 4126</span>&#160;<span class="keyword">typedef</span> <span class="keyword">union </span>Color_union Color;</div>
+<div class="line"><a name="l04127"></a><span class="lineno"> 4127</span>&#160;<span class="keyword">typedef</span> <span class="keyword">union </span>PixelValue_union PixelValue;</div>
 <div class="line"><a name="l04128"></a><span class="lineno"> 4128</span>&#160;<span class="keyword">typedef</span> <span class="keyword">struct </span>OpenContour_struct OpenContour;</div>
 <div class="line"><a name="l04129"></a><span class="lineno"> 4129</span>&#160;<span class="keyword">typedef</span> <span class="keyword">struct </span>OverlayTextOptions_struct OverlayTextOptions;</div>
 <div class="line"><a name="l04130"></a><span class="lineno"> 4130</span>&#160;<span class="keyword">typedef</span> <span class="keyword">struct </span>ParticleFilterCriteria_struct ParticleFilterCriteria;</div>
@@ -5770,7 +5770,7 @@ $(document).ready(function(){initNavTree('nivision_8h_source.html','');});
 <div class="line"><a name="l05694"></a><span class="lineno"> 5694</span>&#160;                    <span class="comment">// pair to the midline of the second parallel line pair.</span></div>
 <div class="line"><a name="l05695"></a><span class="lineno"> 5695</span>&#160;} PairOfParallelLinePairsFeature;</div>
 <div class="line"><a name="l05696"></a><span class="lineno"> 5696</span>&#160;</div>
-<div class="line"><a name="l05697"></a><span class="lineno"><a class="line" href="union_geometric_feature__union.html"> 5697</a></span>&#160;<span class="keyword">typedef</span> <span class="keyword">union </span><a class="code" href="union_geometric_feature__union.html">GeometricFeature_union</a> {</div>
+<div class="line"><a name="l05697"></a><span class="lineno"> 5697</span>&#160;<span class="keyword">typedef</span> <span class="keyword">union </span>GeometricFeature_union {</div>
 <div class="line"><a name="l05698"></a><span class="lineno"> 5698</span>&#160;  CircleFeature* circle;  <span class="comment">// A pointer to a CircleFeature.</span></div>
 <div class="line"><a name="l05699"></a><span class="lineno"> 5699</span>&#160;  EllipseFeature* ellipse;  <span class="comment">// A pointer to an EllipseFeature.</span></div>
 <div class="line"><a name="l05700"></a><span class="lineno"> 5700</span>&#160;  ConstCurveFeature* constCurve;  <span class="comment">// A pointer to a ConstCurveFeature.</span></div>
@@ -5784,14 +5784,14 @@ $(document).ready(function(){initNavTree('nivision_8h_source.html','');});
 <div class="line"><a name="l05708"></a><span class="lineno"> 5708</span>&#160;                                <span class="comment">// PairOfParallelLinePairsFeature.</span></div>
 <div class="line"><a name="l05709"></a><span class="lineno"> 5709</span>&#160;  LineFeature* line;  <span class="comment">// A pointer to a LineFeature.</span></div>
 <div class="line"><a name="l05710"></a><span class="lineno"> 5710</span>&#160;  ClosedCurveFeature* closedCurve;  <span class="comment">// A pointer to a ClosedCurveFeature.</span></div>
-<div class="line"><a name="l05711"></a><span class="lineno"> 5711</span>&#160;} <a class="code" href="union_geometric_feature__union.html">GeometricFeature</a>;</div>
+<div class="line"><a name="l05711"></a><span class="lineno"> 5711</span>&#160;} GeometricFeature;</div>
 <div class="line"><a name="l05712"></a><span class="lineno"> 5712</span>&#160;</div>
 <div class="line"><a name="l05713"></a><span class="lineno"> 5713</span>&#160;<span class="keyword">typedef</span> <span class="keyword">struct </span>FeatureData_struct {</div>
 <div class="line"><a name="l05714"></a><span class="lineno"> 5714</span>&#160;  FeatureType type;  <span class="comment">// An enumeration representing the type of the feature.</span></div>
 <div class="line"><a name="l05715"></a><span class="lineno"> 5715</span>&#160;  PointFloat*</div>
 <div class="line"><a name="l05716"></a><span class="lineno"> 5716</span>&#160;      contourPoints;  <span class="comment">// A set of points describing the contour of the feature.</span></div>
 <div class="line"><a name="l05717"></a><span class="lineno"> 5717</span>&#160;  <span class="keywordtype">int</span> numContourPoints;  <span class="comment">// The number of points in the contourPoints array.</span></div>
-<div class="line"><a name="l05718"></a><span class="lineno"> 5718</span>&#160;  <a class="code" href="union_geometric_feature__union.html">GeometricFeature</a></div>
+<div class="line"><a name="l05718"></a><span class="lineno"> 5718</span>&#160;  GeometricFeature</div>
 <div class="line"><a name="l05719"></a><span class="lineno"> 5719</span>&#160;      feature;  <span class="comment">// The feature data specific to this type of feature.</span></div>
 <div class="line"><a name="l05720"></a><span class="lineno"> 5720</span>&#160;} FeatureData;</div>
 <div class="line"><a name="l05721"></a><span class="lineno"> 5721</span>&#160;</div>
@@ -6254,7 +6254,7 @@ $(document).ready(function(){initNavTree('nivision_8h_source.html','');});
 <div class="line"><a name="l06178"></a><span class="lineno"> 6178</span>&#160;                        <span class="comment">// correction.</span></div>
 <div class="line"><a name="l06179"></a><span class="lineno"> 6179</span>&#160;} CIEXYZValue;</div>
 <div class="line"><a name="l06180"></a><span class="lineno"> 6180</span>&#160;</div>
-<div class="line"><a name="l06181"></a><span class="lineno"><a class="line" href="union_color2__union.html"> 6181</a></span>&#160;<span class="keyword">typedef</span> <span class="keyword">union </span><a class="code" href="union_color2__union.html">Color2_union</a> {</div>
+<div class="line"><a name="l06181"></a><span class="lineno"> 6181</span>&#160;<span class="keyword">typedef</span> <span class="keyword">union </span>Color2_union {</div>
 <div class="line"><a name="l06182"></a><span class="lineno"> 6182</span>&#160;  RGBValue rgb;  <span class="comment">// The information needed to describe a color in the RGB (Red,</span></div>
 <div class="line"><a name="l06183"></a><span class="lineno"> 6183</span>&#160;                 <span class="comment">// Green, and Blue) color space.</span></div>
 <div class="line"><a name="l06184"></a><span class="lineno"> 6184</span>&#160;  HSLValue hsl;  <span class="comment">// The information needed to describe a color in the HSL (Hue,</span></div>
@@ -6268,7 +6268,7 @@ $(document).ready(function(){initNavTree('nivision_8h_source.html','');});
 <div class="line"><a name="l06192"></a><span class="lineno"> 6192</span>&#160;  CIEXYZValue cieXYZ;  <span class="comment">// The information needed to describe a color in the CIE</span></div>
 <div class="line"><a name="l06193"></a><span class="lineno"> 6193</span>&#160;                       <span class="comment">// XYZ (X, Y, Z) color space.</span></div>
 <div class="line"><a name="l06194"></a><span class="lineno"> 6194</span>&#160;  <span class="keywordtype">int</span> rawValue;  <span class="comment">// The integer value for the data in the color union.</span></div>
-<div class="line"><a name="l06195"></a><span class="lineno"> 6195</span>&#160;} <a class="code" href="union_color2__union.html">Color2</a>;</div>
+<div class="line"><a name="l06195"></a><span class="lineno"> 6195</span>&#160;} Color2;</div>
 <div class="line"><a name="l06196"></a><span class="lineno"> 6196</span>&#160;</div>
 <div class="line"><a name="l06197"></a><span class="lineno"> 6197</span>&#160;<span class="keyword">typedef</span> <span class="keyword">struct </span>BestEllipse2_struct {</div>
 <div class="line"><a name="l06198"></a><span class="lineno"> 6198</span>&#160;  PointFloat center;  <span class="comment">// The coordinate location of the center of the ellipse.</span></div>
@@ -6993,7 +6993,7 @@ $(document).ready(function(){initNavTree('nivision_8h_source.html','');});
 <div class="line"><a name="l06917"></a><span class="lineno"> 6917</span>&#160;  RGBValue contourColor;  <span class="comment">// The contour color.</span></div>
 <div class="line"><a name="l06918"></a><span class="lineno"> 6918</span>&#160;} ContourInfo;</div>
 <div class="line"><a name="l06919"></a><span class="lineno"> 6919</span>&#160;</div>
-<div class="line"><a name="l06920"></a><span class="lineno"><a class="line" href="union_contour_union__union.html"> 6920</a></span>&#160;<span class="keyword">typedef</span> <span class="keyword">union </span><a class="code" href="union_contour_union__union.html">ContourUnion_union</a> {</div>
+<div class="line"><a name="l06920"></a><span class="lineno"> 6920</span>&#160;<span class="keyword">typedef</span> <span class="keyword">union </span>ContourUnion_union {</div>
 <div class="line"><a name="l06921"></a><span class="lineno"> 6921</span>&#160;  Point* point;  <span class="comment">// Use this member when the contour is of type IMAQ_POINT.</span></div>
 <div class="line"><a name="l06922"></a><span class="lineno"> 6922</span>&#160;  Line* line;  <span class="comment">// Use this member when the contour is of type IMAQ_LINE.</span></div>
 <div class="line"><a name="l06923"></a><span class="lineno"> 6923</span>&#160;  Rect* rect;  <span class="comment">// Use this member when the contour is of type IMAQ_RECT.</span></div>
@@ -7007,12 +7007,12 @@ $(document).ready(function(){initNavTree('nivision_8h_source.html','');});
 <div class="line"><a name="l06931"></a><span class="lineno"> 6931</span>&#160;                     <span class="comment">// IMAQ_ANNULUS.</span></div>
 <div class="line"><a name="l06932"></a><span class="lineno"> 6932</span>&#160;  RotatedRect* rotatedRect;  <span class="comment">// Use this member when the contour is of type</span></div>
 <div class="line"><a name="l06933"></a><span class="lineno"> 6933</span>&#160;                             <span class="comment">// IMAQ_ROTATED_RECT.</span></div>
-<div class="line"><a name="l06934"></a><span class="lineno"> 6934</span>&#160;} <a class="code" href="union_contour_union__union.html">ContourUnion</a>;</div>
+<div class="line"><a name="l06934"></a><span class="lineno"> 6934</span>&#160;} ContourUnion;</div>
 <div class="line"><a name="l06935"></a><span class="lineno"> 6935</span>&#160;</div>
 <div class="line"><a name="l06936"></a><span class="lineno"> 6936</span>&#160;<span class="keyword">typedef</span> <span class="keyword">struct </span>ContourInfo2_struct {</div>
 <div class="line"><a name="l06937"></a><span class="lineno"> 6937</span>&#160;  ContourType type;  <span class="comment">// The contour type.</span></div>
 <div class="line"><a name="l06938"></a><span class="lineno"> 6938</span>&#160;  RGBValue color;  <span class="comment">// The contour color.</span></div>
-<div class="line"><a name="l06939"></a><span class="lineno"> 6939</span>&#160;  <a class="code" href="union_contour_union__union.html">ContourUnion</a> structure;  <span class="comment">// The information necessary to describe the contour</span></div>
+<div class="line"><a name="l06939"></a><span class="lineno"> 6939</span>&#160;  ContourUnion structure;  <span class="comment">// The information necessary to describe the contour</span></div>
 <div class="line"><a name="l06940"></a><span class="lineno"> 6940</span>&#160;                           <span class="comment">// in coordinate space.</span></div>
 <div class="line"><a name="l06941"></a><span class="lineno"> 6941</span>&#160;} ContourInfo2;</div>
 <div class="line"><a name="l06942"></a><span class="lineno"> 6942</span>&#160;</div>
@@ -7109,7 +7109,7 @@ $(document).ready(function(){initNavTree('nivision_8h_source.html','');});
 <div class="line"><a name="l07033"></a><span class="lineno"> 7033</span>&#160;                                        <span class="comment">// use on the TIFF file.</span></div>
 <div class="line"><a name="l07034"></a><span class="lineno"> 7034</span>&#160;} TIFFFileOptions;</div>
 <div class="line"><a name="l07035"></a><span class="lineno"> 7035</span>&#160;</div>
-<div class="line"><a name="l07036"></a><span class="lineno"><a class="line" href="union_color__union.html"> 7036</a></span>&#160;<span class="keyword">typedef</span> <span class="keyword">union </span><a class="code" href="union_color__union.html">Color_union</a> {</div>
+<div class="line"><a name="l07036"></a><span class="lineno"> 7036</span>&#160;<span class="keyword">typedef</span> <span class="keyword">union </span>Color_union {</div>
 <div class="line"><a name="l07037"></a><span class="lineno"> 7037</span>&#160;  RGBValue rgb;  <span class="comment">// The information needed to describe a color in the RGB (Red,</span></div>
 <div class="line"><a name="l07038"></a><span class="lineno"> 7038</span>&#160;                 <span class="comment">// Green, and Blue) color space.</span></div>
 <div class="line"><a name="l07039"></a><span class="lineno"> 7039</span>&#160;  HSLValue hsl;  <span class="comment">// The information needed to describe a color in the HSL (Hue,</span></div>
@@ -7119,15 +7119,15 @@ $(document).ready(function(){initNavTree('nivision_8h_source.html','');});
 <div class="line"><a name="l07043"></a><span class="lineno"> 7043</span>&#160;  HSIValue hsi;  <span class="comment">// The information needed to describe a color in the HSI (Hue,</span></div>
 <div class="line"><a name="l07044"></a><span class="lineno"> 7044</span>&#160;                 <span class="comment">// Saturation, and Intensity) color space.</span></div>
 <div class="line"><a name="l07045"></a><span class="lineno"> 7045</span>&#160;  <span class="keywordtype">int</span> rawValue;  <span class="comment">// The integer value for the data in the color union.</span></div>
-<div class="line"><a name="l07046"></a><span class="lineno"> 7046</span>&#160;} <a class="code" href="union_color__union.html">Color</a>;</div>
+<div class="line"><a name="l07046"></a><span class="lineno"> 7046</span>&#160;} Color;</div>
 <div class="line"><a name="l07047"></a><span class="lineno"> 7047</span>&#160;</div>
-<div class="line"><a name="l07048"></a><span class="lineno"><a class="line" href="union_pixel_value__union.html"> 7048</a></span>&#160;<span class="keyword">typedef</span> <span class="keyword">union </span><a class="code" href="union_pixel_value__union.html">PixelValue_union</a> {</div>
+<div class="line"><a name="l07048"></a><span class="lineno"> 7048</span>&#160;<span class="keyword">typedef</span> <span class="keyword">union </span>PixelValue_union {</div>
 <div class="line"><a name="l07049"></a><span class="lineno"> 7049</span>&#160;  <span class="keywordtype">float</span> grayscale;  <span class="comment">// A grayscale pixel value.</span></div>
 <div class="line"><a name="l07050"></a><span class="lineno"> 7050</span>&#160;  RGBValue rgb;  <span class="comment">// A RGB pixel value.</span></div>
 <div class="line"><a name="l07051"></a><span class="lineno"> 7051</span>&#160;  HSLValue hsl;  <span class="comment">// A HSL pixel value.</span></div>
 <div class="line"><a name="l07052"></a><span class="lineno"> 7052</span>&#160;  Complex complex;  <span class="comment">// A complex pixel value.</span></div>
 <div class="line"><a name="l07053"></a><span class="lineno"> 7053</span>&#160;  RGBU64Value rgbu64;  <span class="comment">// An unsigned 64-bit RGB pixel value.</span></div>
-<div class="line"><a name="l07054"></a><span class="lineno"> 7054</span>&#160;} <a class="code" href="union_pixel_value__union.html">PixelValue</a>;</div>
+<div class="line"><a name="l07054"></a><span class="lineno"> 7054</span>&#160;} PixelValue;</div>
 <div class="line"><a name="l07055"></a><span class="lineno"> 7055</span>&#160;</div>
 <div class="line"><a name="l07056"></a><span class="lineno"> 7056</span>&#160;<span class="keyword">typedef</span> <span class="keyword">struct </span>OpenContour_struct {</div>
 <div class="line"><a name="l07057"></a><span class="lineno"> 7057</span>&#160;  Point* points;  <span class="comment">// The points that make up the open contour.</span></div>
@@ -7441,38 +7441,38 @@ $(document).ready(function(){initNavTree('nivision_8h_source.html','');});
 <div class="line"><a name="l07365"></a><span class="lineno"> 7365</span>&#160;IMAQ_FUNC <span class="keywordtype">int</span> IMAQ_STDCALL</div>
 <div class="line"><a name="l07366"></a><span class="lineno"> 7366</span>&#160;imaqAnd(Image* dest, <span class="keyword">const</span> Image* sourceA, <span class="keyword">const</span> Image* sourceB);</div>
 <div class="line"><a name="l07367"></a><span class="lineno"> 7367</span>&#160;IMAQ_FUNC <span class="keywordtype">int</span> IMAQ_STDCALL</div>
-<div class="line"><a name="l07368"></a><span class="lineno"> 7368</span>&#160;imaqAndConstant(Image* dest, <span class="keyword">const</span> Image* source, <a class="code" href="union_pixel_value__union.html">PixelValue</a> value);</div>
+<div class="line"><a name="l07368"></a><span class="lineno"> 7368</span>&#160;imaqAndConstant(Image* dest, <span class="keyword">const</span> Image* source, PixelValue value);</div>
 <div class="line"><a name="l07369"></a><span class="lineno"> 7369</span>&#160;IMAQ_FUNC <span class="keywordtype">int</span> IMAQ_STDCALL imaqCompare(Image* dest, <span class="keyword">const</span> Image* source,</div>
 <div class="line"><a name="l07370"></a><span class="lineno"> 7370</span>&#160;                                       <span class="keyword">const</span> Image* compareImage,</div>
 <div class="line"><a name="l07371"></a><span class="lineno"> 7371</span>&#160;                                       ComparisonFunction compare);</div>
 <div class="line"><a name="l07372"></a><span class="lineno"> 7372</span>&#160;IMAQ_FUNC <span class="keywordtype">int</span> IMAQ_STDCALL imaqCompareConstant(Image* dest, <span class="keyword">const</span> Image* source,</div>
-<div class="line"><a name="l07373"></a><span class="lineno"> 7373</span>&#160;                                               <a class="code" href="union_pixel_value__union.html">PixelValue</a> value,</div>
+<div class="line"><a name="l07373"></a><span class="lineno"> 7373</span>&#160;                                               PixelValue value,</div>
 <div class="line"><a name="l07374"></a><span class="lineno"> 7374</span>&#160;                                               ComparisonFunction compare);</div>
 <div class="line"><a name="l07375"></a><span class="lineno"> 7375</span>&#160;IMAQ_FUNC <span class="keywordtype">int</span> IMAQ_STDCALL</div>
 <div class="line"><a name="l07376"></a><span class="lineno"> 7376</span>&#160;imaqLogicalDifference(Image* dest, <span class="keyword">const</span> Image* sourceA, <span class="keyword">const</span> Image* sourceB);</div>
 <div class="line"><a name="l07377"></a><span class="lineno"> 7377</span>&#160;IMAQ_FUNC <span class="keywordtype">int</span> IMAQ_STDCALL imaqLogicalDifferenceConstant(Image* dest,</div>
 <div class="line"><a name="l07378"></a><span class="lineno"> 7378</span>&#160;                                                         <span class="keyword">const</span> Image* source,</div>
-<div class="line"><a name="l07379"></a><span class="lineno"> 7379</span>&#160;                                                         <a class="code" href="union_pixel_value__union.html">PixelValue</a> value);</div>
+<div class="line"><a name="l07379"></a><span class="lineno"> 7379</span>&#160;                                                         PixelValue value);</div>
 <div class="line"><a name="l07380"></a><span class="lineno"> 7380</span>&#160;IMAQ_FUNC <span class="keywordtype">int</span> IMAQ_STDCALL</div>
 <div class="line"><a name="l07381"></a><span class="lineno"> 7381</span>&#160;imaqNand(Image* dest, <span class="keyword">const</span> Image* sourceA, <span class="keyword">const</span> Image* sourceB);</div>
 <div class="line"><a name="l07382"></a><span class="lineno"> 7382</span>&#160;IMAQ_FUNC <span class="keywordtype">int</span> IMAQ_STDCALL</div>
-<div class="line"><a name="l07383"></a><span class="lineno"> 7383</span>&#160;imaqNandConstant(Image* dest, <span class="keyword">const</span> Image* source, <a class="code" href="union_pixel_value__union.html">PixelValue</a> value);</div>
+<div class="line"><a name="l07383"></a><span class="lineno"> 7383</span>&#160;imaqNandConstant(Image* dest, <span class="keyword">const</span> Image* source, PixelValue value);</div>
 <div class="line"><a name="l07384"></a><span class="lineno"> 7384</span>&#160;IMAQ_FUNC <span class="keywordtype">int</span> IMAQ_STDCALL</div>
 <div class="line"><a name="l07385"></a><span class="lineno"> 7385</span>&#160;imaqNor(Image* dest, <span class="keyword">const</span> Image* sourceA, <span class="keyword">const</span> Image* sourceB);</div>
 <div class="line"><a name="l07386"></a><span class="lineno"> 7386</span>&#160;IMAQ_FUNC <span class="keywordtype">int</span> IMAQ_STDCALL</div>
-<div class="line"><a name="l07387"></a><span class="lineno"> 7387</span>&#160;imaqNorConstant(Image* dest, <span class="keyword">const</span> Image* source, <a class="code" href="union_pixel_value__union.html">PixelValue</a> value);</div>
+<div class="line"><a name="l07387"></a><span class="lineno"> 7387</span>&#160;imaqNorConstant(Image* dest, <span class="keyword">const</span> Image* source, PixelValue value);</div>
 <div class="line"><a name="l07388"></a><span class="lineno"> 7388</span>&#160;IMAQ_FUNC <span class="keywordtype">int</span> IMAQ_STDCALL</div>
 <div class="line"><a name="l07389"></a><span class="lineno"> 7389</span>&#160;imaqOr(Image* dest, <span class="keyword">const</span> Image* sourceA, <span class="keyword">const</span> Image* sourceB);</div>
 <div class="line"><a name="l07390"></a><span class="lineno"> 7390</span>&#160;IMAQ_FUNC <span class="keywordtype">int</span> IMAQ_STDCALL</div>
-<div class="line"><a name="l07391"></a><span class="lineno"> 7391</span>&#160;imaqOrConstant(Image* dest, <span class="keyword">const</span> Image* source, <a class="code" href="union_pixel_value__union.html">PixelValue</a> value);</div>
+<div class="line"><a name="l07391"></a><span class="lineno"> 7391</span>&#160;imaqOrConstant(Image* dest, <span class="keyword">const</span> Image* source, PixelValue value);</div>
 <div class="line"><a name="l07392"></a><span class="lineno"> 7392</span>&#160;IMAQ_FUNC <span class="keywordtype">int</span> IMAQ_STDCALL</div>
 <div class="line"><a name="l07393"></a><span class="lineno"> 7393</span>&#160;imaqXnor(Image* dest, <span class="keyword">const</span> Image* sourceA, <span class="keyword">const</span> Image* sourceB);</div>
 <div class="line"><a name="l07394"></a><span class="lineno"> 7394</span>&#160;IMAQ_FUNC <span class="keywordtype">int</span> IMAQ_STDCALL</div>
-<div class="line"><a name="l07395"></a><span class="lineno"> 7395</span>&#160;imaqXnorConstant(Image* dest, <span class="keyword">const</span> Image* source, <a class="code" href="union_pixel_value__union.html">PixelValue</a> value);</div>
+<div class="line"><a name="l07395"></a><span class="lineno"> 7395</span>&#160;imaqXnorConstant(Image* dest, <span class="keyword">const</span> Image* source, PixelValue value);</div>
 <div class="line"><a name="l07396"></a><span class="lineno"> 7396</span>&#160;IMAQ_FUNC <span class="keywordtype">int</span> IMAQ_STDCALL</div>
 <div class="line"><a name="l07397"></a><span class="lineno"> 7397</span>&#160;imaqXor(Image* dest, <span class="keyword">const</span> Image* sourceA, <span class="keyword">const</span> Image* sourceB);</div>
 <div class="line"><a name="l07398"></a><span class="lineno"> 7398</span>&#160;IMAQ_FUNC <span class="keywordtype">int</span> IMAQ_STDCALL</div>
-<div class="line"><a name="l07399"></a><span class="lineno"> 7399</span>&#160;imaqXorConstant(Image* dest, <span class="keyword">const</span> Image* source, <a class="code" href="union_pixel_value__union.html">PixelValue</a> value);</div>
+<div class="line"><a name="l07399"></a><span class="lineno"> 7399</span>&#160;imaqXorConstant(Image* dest, <span class="keyword">const</span> Image* source, PixelValue value);</div>
 <div class="line"><a name="l07400"></a><span class="lineno"> 7400</span>&#160;</div>
 <div class="line"><a name="l07401"></a><span class="lineno"> 7401</span>&#160;<span class="comment">//============================================================================</span></div>
 <div class="line"><a name="l07402"></a><span class="lineno"> 7402</span>&#160;<span class="comment">//  Particle Analysis functions</span></div>
@@ -7555,43 +7555,43 @@ $(document).ready(function(){initNavTree('nivision_8h_source.html','');});
 <div class="line"><a name="l07479"></a><span class="lineno"> 7479</span>&#160;imaqAbsoluteDifference(Image* dest, <span class="keyword">const</span> Image* sourceA, <span class="keyword">const</span> Image* sourceB);</div>
 <div class="line"><a name="l07480"></a><span class="lineno"> 7480</span>&#160;IMAQ_FUNC <span class="keywordtype">int</span> IMAQ_STDCALL imaqAbsoluteDifferenceConstant(Image* dest,</div>
 <div class="line"><a name="l07481"></a><span class="lineno"> 7481</span>&#160;                                                          <span class="keyword">const</span> Image* source,</div>
-<div class="line"><a name="l07482"></a><span class="lineno"> 7482</span>&#160;                                                          <a class="code" href="union_pixel_value__union.html">PixelValue</a> value);</div>
+<div class="line"><a name="l07482"></a><span class="lineno"> 7482</span>&#160;                                                          PixelValue value);</div>
 <div class="line"><a name="l07483"></a><span class="lineno"> 7483</span>&#160;IMAQ_FUNC <span class="keywordtype">int</span> IMAQ_STDCALL</div>
 <div class="line"><a name="l07484"></a><span class="lineno"> 7484</span>&#160;imaqAdd(Image* dest, <span class="keyword">const</span> Image* sourceA, <span class="keyword">const</span> Image* sourceB);</div>
 <div class="line"><a name="l07485"></a><span class="lineno"> 7485</span>&#160;IMAQ_FUNC <span class="keywordtype">int</span> IMAQ_STDCALL</div>
-<div class="line"><a name="l07486"></a><span class="lineno"> 7486</span>&#160;imaqAddConstant(Image* dest, <span class="keyword">const</span> Image* source, <a class="code" href="union_pixel_value__union.html">PixelValue</a> value);</div>
+<div class="line"><a name="l07486"></a><span class="lineno"> 7486</span>&#160;imaqAddConstant(Image* dest, <span class="keyword">const</span> Image* source, PixelValue value);</div>
 <div class="line"><a name="l07487"></a><span class="lineno"> 7487</span>&#160;IMAQ_FUNC <span class="keywordtype">int</span> IMAQ_STDCALL</div>
 <div class="line"><a name="l07488"></a><span class="lineno"> 7488</span>&#160;imaqAverage(Image* dest, <span class="keyword">const</span> Image* sourceA, <span class="keyword">const</span> Image* sourceB);</div>
 <div class="line"><a name="l07489"></a><span class="lineno"> 7489</span>&#160;IMAQ_FUNC <span class="keywordtype">int</span> IMAQ_STDCALL</div>
-<div class="line"><a name="l07490"></a><span class="lineno"> 7490</span>&#160;imaqAverageConstant(Image* dest, <span class="keyword">const</span> Image* source, <a class="code" href="union_pixel_value__union.html">PixelValue</a> value);</div>
+<div class="line"><a name="l07490"></a><span class="lineno"> 7490</span>&#160;imaqAverageConstant(Image* dest, <span class="keyword">const</span> Image* source, PixelValue value);</div>
 <div class="line"><a name="l07491"></a><span class="lineno"> 7491</span>&#160;IMAQ_FUNC <span class="keywordtype">int</span> IMAQ_STDCALL imaqDivide2(Image* dest, <span class="keyword">const</span> Image* sourceA,</div>
 <div class="line"><a name="l07492"></a><span class="lineno"> 7492</span>&#160;                                       <span class="keyword">const</span> Image* sourceB,</div>
 <div class="line"><a name="l07493"></a><span class="lineno"> 7493</span>&#160;                                       RoundingMode roundingMode);</div>
 <div class="line"><a name="l07494"></a><span class="lineno"> 7494</span>&#160;IMAQ_FUNC <span class="keywordtype">int</span> IMAQ_STDCALL imaqDivideConstant2(Image* dest, <span class="keyword">const</span> Image* source,</div>
-<div class="line"><a name="l07495"></a><span class="lineno"> 7495</span>&#160;                                               <a class="code" href="union_pixel_value__union.html">PixelValue</a> value,</div>
+<div class="line"><a name="l07495"></a><span class="lineno"> 7495</span>&#160;                                               PixelValue value,</div>
 <div class="line"><a name="l07496"></a><span class="lineno"> 7496</span>&#160;                                               RoundingMode roundingMode);</div>
 <div class="line"><a name="l07497"></a><span class="lineno"> 7497</span>&#160;IMAQ_FUNC <span class="keywordtype">int</span> IMAQ_STDCALL</div>
 <div class="line"><a name="l07498"></a><span class="lineno"> 7498</span>&#160;imaqMax(Image* dest, <span class="keyword">const</span> Image* sourceA, <span class="keyword">const</span> Image* sourceB);</div>
 <div class="line"><a name="l07499"></a><span class="lineno"> 7499</span>&#160;IMAQ_FUNC <span class="keywordtype">int</span> IMAQ_STDCALL</div>
-<div class="line"><a name="l07500"></a><span class="lineno"> 7500</span>&#160;imaqMaxConstant(Image* dest, <span class="keyword">const</span> Image* source, <a class="code" href="union_pixel_value__union.html">PixelValue</a> value);</div>
+<div class="line"><a name="l07500"></a><span class="lineno"> 7500</span>&#160;imaqMaxConstant(Image* dest, <span class="keyword">const</span> Image* source, PixelValue value);</div>
 <div class="line"><a name="l07501"></a><span class="lineno"> 7501</span>&#160;IMAQ_FUNC <span class="keywordtype">int</span> IMAQ_STDCALL</div>
 <div class="line"><a name="l07502"></a><span class="lineno"> 7502</span>&#160;imaqMin(Image* dest, <span class="keyword">const</span> Image* sourceA, <span class="keyword">const</span> Image* sourceB);</div>
 <div class="line"><a name="l07503"></a><span class="lineno"> 7503</span>&#160;IMAQ_FUNC <span class="keywordtype">int</span> IMAQ_STDCALL</div>
-<div class="line"><a name="l07504"></a><span class="lineno"> 7504</span>&#160;imaqMinConstant(Image* dest, <span class="keyword">const</span> Image* source, <a class="code" href="union_pixel_value__union.html">PixelValue</a> value);</div>
+<div class="line"><a name="l07504"></a><span class="lineno"> 7504</span>&#160;imaqMinConstant(Image* dest, <span class="keyword">const</span> Image* source, PixelValue value);</div>
 <div class="line"><a name="l07505"></a><span class="lineno"> 7505</span>&#160;IMAQ_FUNC <span class="keywordtype">int</span> IMAQ_STDCALL</div>
 <div class="line"><a name="l07506"></a><span class="lineno"> 7506</span>&#160;imaqModulo(Image* dest, <span class="keyword">const</span> Image* sourceA, <span class="keyword">const</span> Image* sourceB);</div>
 <div class="line"><a name="l07507"></a><span class="lineno"> 7507</span>&#160;IMAQ_FUNC <span class="keywordtype">int</span> IMAQ_STDCALL</div>
-<div class="line"><a name="l07508"></a><span class="lineno"> 7508</span>&#160;imaqModuloConstant(Image* dest, <span class="keyword">const</span> Image* source, <a class="code" href="union_pixel_value__union.html">PixelValue</a> value);</div>
+<div class="line"><a name="l07508"></a><span class="lineno"> 7508</span>&#160;imaqModuloConstant(Image* dest, <span class="keyword">const</span> Image* source, PixelValue value);</div>
 <div class="line"><a name="l07509"></a><span class="lineno"> 7509</span>&#160;IMAQ_FUNC <span class="keywordtype">int</span> IMAQ_STDCALL imaqMulDiv(Image* dest, <span class="keyword">const</span> Image* sourceA,</div>
 <div class="line"><a name="l07510"></a><span class="lineno"> 7510</span>&#160;                                      <span class="keyword">const</span> Image* sourceB, <span class="keywordtype">float</span> value);</div>
 <div class="line"><a name="l07511"></a><span class="lineno"> 7511</span>&#160;IMAQ_FUNC <span class="keywordtype">int</span> IMAQ_STDCALL</div>
 <div class="line"><a name="l07512"></a><span class="lineno"> 7512</span>&#160;imaqMultiply(Image* dest, <span class="keyword">const</span> Image* sourceA, <span class="keyword">const</span> Image* sourceB);</div>
 <div class="line"><a name="l07513"></a><span class="lineno"> 7513</span>&#160;IMAQ_FUNC <span class="keywordtype">int</span> IMAQ_STDCALL</div>
-<div class="line"><a name="l07514"></a><span class="lineno"> 7514</span>&#160;imaqMultiplyConstant(Image* dest, <span class="keyword">const</span> Image* source, <a class="code" href="union_pixel_value__union.html">PixelValue</a> value);</div>
+<div class="line"><a name="l07514"></a><span class="lineno"> 7514</span>&#160;imaqMultiplyConstant(Image* dest, <span class="keyword">const</span> Image* source, PixelValue value);</div>
 <div class="line"><a name="l07515"></a><span class="lineno"> 7515</span>&#160;IMAQ_FUNC <span class="keywordtype">int</span> IMAQ_STDCALL</div>
 <div class="line"><a name="l07516"></a><span class="lineno"> 7516</span>&#160;imaqSubtract(Image* dest, <span class="keyword">const</span> Image* sourceA, <span class="keyword">const</span> Image* sourceB);</div>
 <div class="line"><a name="l07517"></a><span class="lineno"> 7517</span>&#160;IMAQ_FUNC <span class="keywordtype">int</span> IMAQ_STDCALL</div>
-<div class="line"><a name="l07518"></a><span class="lineno"> 7518</span>&#160;imaqSubtractConstant(Image* dest, <span class="keyword">const</span> Image* source, <a class="code" href="union_pixel_value__union.html">PixelValue</a> value);</div>
+<div class="line"><a name="l07518"></a><span class="lineno"> 7518</span>&#160;imaqSubtractConstant(Image* dest, <span class="keyword">const</span> Image* source, PixelValue value);</div>
 <div class="line"><a name="l07519"></a><span class="lineno"> 7519</span>&#160;</div>
 <div class="line"><a name="l07520"></a><span class="lineno"> 7520</span>&#160;<span class="comment">//============================================================================</span></div>
 <div class="line"><a name="l07521"></a><span class="lineno"> 7521</span>&#160;<span class="comment">//  Caliper functions</span></div>
@@ -7775,13 +7775,13 @@ $(document).ready(function(){initNavTree('nivision_8h_source.html','');});
 <div class="line"><a name="l07699"></a><span class="lineno"> 7699</span>&#160;                                        <span class="keywordtype">int</span> newWidth, <span class="keywordtype">int</span> newHeight,</div>
 <div class="line"><a name="l07700"></a><span class="lineno"> 7700</span>&#160;                                        InterpolationMethod method, Rect rect);</div>
 <div class="line"><a name="l07701"></a><span class="lineno"> 7701</span>&#160;IMAQ_FUNC <span class="keywordtype">int</span> IMAQ_STDCALL</div>
-<div class="line"><a name="l07702"></a><span class="lineno"> 7702</span>&#160;imaqRotate2(Image* dest, <span class="keyword">const</span> Image* source, <span class="keywordtype">float</span> angle, <a class="code" href="union_pixel_value__union.html">PixelValue</a> fill,</div>
+<div class="line"><a name="l07702"></a><span class="lineno"> 7702</span>&#160;imaqRotate2(Image* dest, <span class="keyword">const</span> Image* source, <span class="keywordtype">float</span> angle, PixelValue fill,</div>
 <div class="line"><a name="l07703"></a><span class="lineno"> 7703</span>&#160;            InterpolationMethod method, <span class="keywordtype">int</span> maintainSize);</div>
 <div class="line"><a name="l07704"></a><span class="lineno"> 7704</span>&#160;IMAQ_FUNC <span class="keywordtype">int</span> IMAQ_STDCALL imaqScale(Image* dest, <span class="keyword">const</span> Image* source,</div>
 <div class="line"><a name="l07705"></a><span class="lineno"> 7705</span>&#160;                                     <span class="keywordtype">int</span> xScale, <span class="keywordtype">int</span> yScale,</div>
 <div class="line"><a name="l07706"></a><span class="lineno"> 7706</span>&#160;                                     ScalingMode scaleMode, Rect rect);</div>
 <div class="line"><a name="l07707"></a><span class="lineno"> 7707</span>&#160;IMAQ_FUNC <span class="keywordtype">int</span> IMAQ_STDCALL imaqShift(Image* dest, <span class="keyword">const</span> Image* source,</div>
-<div class="line"><a name="l07708"></a><span class="lineno"> 7708</span>&#160;                                     <span class="keywordtype">int</span> shiftX, <span class="keywordtype">int</span> shiftY, <a class="code" href="union_pixel_value__union.html">PixelValue</a> fill);</div>
+<div class="line"><a name="l07708"></a><span class="lineno"> 7708</span>&#160;                                     <span class="keywordtype">int</span> shiftX, <span class="keywordtype">int</span> shiftY, PixelValue fill);</div>
 <div class="line"><a name="l07709"></a><span class="lineno"> 7709</span>&#160;IMAQ_FUNC <span class="keywordtype">int</span> IMAQ_STDCALL imaqTranspose(Image* dest, <span class="keyword">const</span> Image* source);</div>
 <div class="line"><a name="l07710"></a><span class="lineno"> 7710</span>&#160;IMAQ_FUNC <span class="keywordtype">int</span> IMAQ_STDCALL</div>
 <div class="line"><a name="l07711"></a><span class="lineno"> 7711</span>&#160;imaqUnflatten(Image* image, <span class="keyword">const</span> <span class="keywordtype">void</span>* data, <span class="keywordtype">unsigned</span> <span class="keywordtype">int</span> size);</div>
@@ -7921,8 +7921,8 @@ $(document).ready(function(){initNavTree('nivision_8h_source.html','');});
 <div class="line"><a name="l07845"></a><span class="lineno"> 7845</span>&#160;<span class="comment">//============================================================================</span></div>
 <div class="line"><a name="l07846"></a><span class="lineno"> 7846</span>&#160;<span class="comment">//  Color Processing functions</span></div>
 <div class="line"><a name="l07847"></a><span class="lineno"> 7847</span>&#160;<span class="comment">//============================================================================</span></div>
-<div class="line"><a name="l07848"></a><span class="lineno"> 7848</span>&#160;IMAQ_FUNC <a class="code" href="union_color2__union.html">Color2</a> IMAQ_STDCALL</div>
-<div class="line"><a name="l07849"></a><span class="lineno"> 7849</span>&#160;imaqChangeColorSpace2(<span class="keyword">const</span> <a class="code" href="union_color2__union.html">Color2</a>* sourceColor, ColorMode sourceSpace,</div>
+<div class="line"><a name="l07848"></a><span class="lineno"> 7848</span>&#160;IMAQ_FUNC Color2 IMAQ_STDCALL</div>
+<div class="line"><a name="l07849"></a><span class="lineno"> 7849</span>&#160;imaqChangeColorSpace2(<span class="keyword">const</span> Color2* sourceColor, ColorMode sourceSpace,</div>
 <div class="line"><a name="l07850"></a><span class="lineno"> 7850</span>&#160;                      ColorMode destSpace, <span class="keywordtype">double</span> offset,</div>
 <div class="line"><a name="l07851"></a><span class="lineno"> 7851</span>&#160;                      <span class="keyword">const</span> CIEXYZValue* whiteReference);</div>
 <div class="line"><a name="l07852"></a><span class="lineno"> 7852</span>&#160;IMAQ_FUNC <span class="keywordtype">int</span> IMAQ_STDCALL</div>
@@ -8089,7 +8089,7 @@ $(document).ready(function(){initNavTree('nivision_8h_source.html','');});
 <div class="line"><a name="l08013"></a><span class="lineno"> 8013</span>&#160;IMAQ_FUNC <span class="keywordtype">int</span> IMAQ_STDCALL</div>
 <div class="line"><a name="l08014"></a><span class="lineno"> 8014</span>&#160;imaqCopyCalibrationInfo2(Image* dest, Image* source, Point offset);</div>
 <div class="line"><a name="l08015"></a><span class="lineno"> 8015</span>&#160;IMAQ_FUNC <span class="keywordtype">int</span> IMAQ_STDCALL</div>
-<div class="line"><a name="l08016"></a><span class="lineno"> 8016</span>&#160;imaqCorrectCalibratedImage(Image* dest, <span class="keyword">const</span> Image* source, <a class="code" href="union_pixel_value__union.html">PixelValue</a> fill,</div>
+<div class="line"><a name="l08016"></a><span class="lineno"> 8016</span>&#160;imaqCorrectCalibratedImage(Image* dest, <span class="keyword">const</span> Image* source, PixelValue fill,</div>
 <div class="line"><a name="l08017"></a><span class="lineno"> 8017</span>&#160;                           InterpolationMethod method, <span class="keyword">const</span> ROI* roi);</div>
 <div class="line"><a name="l08018"></a><span class="lineno"> 8018</span>&#160;IMAQ_FUNC CalibrationInfo* IMAQ_STDCALL</div>
 <div class="line"><a name="l08019"></a><span class="lineno"> 8019</span>&#160;imaqGetCalibrationInfo2(<span class="keyword">const</span> Image* image);</div>
@@ -8150,11 +8150,11 @@ $(document).ready(function(){initNavTree('nivision_8h_source.html','');});
 <div class="line"><a name="l08074"></a><span class="lineno"> 8074</span>&#160;IMAQ_FUNC <span class="keywordtype">int</span> IMAQ_STDCALL</div>
 <div class="line"><a name="l08075"></a><span class="lineno"> 8075</span>&#160;imaqExtractComplexPlane(Image* dest, <span class="keyword">const</span> Image* source, ComplexPlane plane);</div>
 <div class="line"><a name="l08076"></a><span class="lineno"> 8076</span>&#160;IMAQ_FUNC <span class="keywordtype">int</span> IMAQ_STDCALL</div>
-<div class="line"><a name="l08077"></a><span class="lineno"> 8077</span>&#160;imaqFillImage(Image* image, <a class="code" href="union_pixel_value__union.html">PixelValue</a> value, <span class="keyword">const</span> Image* mask);</div>
+<div class="line"><a name="l08077"></a><span class="lineno"> 8077</span>&#160;imaqFillImage(Image* image, PixelValue value, <span class="keyword">const</span> Image* mask);</div>
 <div class="line"><a name="l08078"></a><span class="lineno"> 8078</span>&#160;IMAQ_FUNC <span class="keywordtype">void</span>* IMAQ_STDCALL</div>
 <div class="line"><a name="l08079"></a><span class="lineno"> 8079</span>&#160;imaqGetLine(<span class="keyword">const</span> Image* image, Point start, Point end, <span class="keywordtype">int</span>* numPoints);</div>
 <div class="line"><a name="l08080"></a><span class="lineno"> 8080</span>&#160;IMAQ_FUNC <span class="keywordtype">int</span> IMAQ_STDCALL</div>
-<div class="line"><a name="l08081"></a><span class="lineno"> 8081</span>&#160;imaqGetPixel(<span class="keyword">const</span> Image* image, Point pixel, <a class="code" href="union_pixel_value__union.html">PixelValue</a>* value);</div>
+<div class="line"><a name="l08081"></a><span class="lineno"> 8081</span>&#160;imaqGetPixel(<span class="keyword">const</span> Image* image, Point pixel, PixelValue* value);</div>
 <div class="line"><a name="l08082"></a><span class="lineno"> 8082</span>&#160;IMAQ_FUNC <span class="keywordtype">int</span> IMAQ_STDCALL</div>
 <div class="line"><a name="l08083"></a><span class="lineno"> 8083</span>&#160;imaqReplaceColorPlanes(Image* dest, <span class="keyword">const</span> Image* source, ColorMode mode,</div>
 <div class="line"><a name="l08084"></a><span class="lineno"> 8084</span>&#160;                       <span class="keyword">const</span> Image* plane1, <span class="keyword">const</span> Image* plane2,</div>
@@ -8165,7 +8165,7 @@ $(document).ready(function(){initNavTree('nivision_8h_source.html','');});
 <div class="line"><a name="l08089"></a><span class="lineno"> 8089</span>&#160;IMAQ_FUNC <span class="keywordtype">int</span> IMAQ_STDCALL imaqSetLine(Image* image, <span class="keyword">const</span> <span class="keywordtype">void</span>* array,</div>
 <div class="line"><a name="l08090"></a><span class="lineno"> 8090</span>&#160;                                       <span class="keywordtype">int</span> arraySize, Point start, Point end);</div>
 <div class="line"><a name="l08091"></a><span class="lineno"> 8091</span>&#160;IMAQ_FUNC <span class="keywordtype">int</span> IMAQ_STDCALL</div>
-<div class="line"><a name="l08092"></a><span class="lineno"> 8092</span>&#160;imaqSetPixel(Image* image, Point coord, <a class="code" href="union_pixel_value__union.html">PixelValue</a> value);</div>
+<div class="line"><a name="l08092"></a><span class="lineno"> 8092</span>&#160;imaqSetPixel(Image* image, Point coord, PixelValue value);</div>
 <div class="line"><a name="l08093"></a><span class="lineno"> 8093</span>&#160;</div>
 <div class="line"><a name="l08094"></a><span class="lineno"> 8094</span>&#160;<span class="comment">//============================================================================</span></div>
 <div class="line"><a name="l08095"></a><span class="lineno"> 8095</span>&#160;<span class="comment">//  Color Matching functions</span></div>
@@ -8734,7 +8734,7 @@ $(document).ready(function(){initNavTree('nivision_8h_source.html','');});
 <div class="line"><a name="l08658"></a><span class="lineno"> 8658</span>&#160;<span class="comment">//  Obsolete functions</span></div>
 <div class="line"><a name="l08659"></a><span class="lineno"> 8659</span>&#160;<span class="comment">//============================================================================</span></div>
 <div class="line"><a name="l08660"></a><span class="lineno"> 8660</span>&#160;IMAQ_FUNC <span class="keywordtype">int</span> IMAQ_STDCALL imaqRotate(Image* dest, <span class="keyword">const</span> Image* source,</div>
-<div class="line"><a name="l08661"></a><span class="lineno"> 8661</span>&#160;                                      <span class="keywordtype">float</span> angle, <a class="code" href="union_pixel_value__union.html">PixelValue</a> fill,</div>
+<div class="line"><a name="l08661"></a><span class="lineno"> 8661</span>&#160;                                      <span class="keywordtype">float</span> angle, PixelValue fill,</div>
 <div class="line"><a name="l08662"></a><span class="lineno"> 8662</span>&#160;                                      InterpolationMethod method);</div>
 <div class="line"><a name="l08663"></a><span class="lineno"> 8663</span>&#160;IMAQ_FUNC <span class="keywordtype">int</span> IMAQ_STDCALL</div>
 <div class="line"><a name="l08664"></a><span class="lineno"> 8664</span>&#160;imaqWritePNGFile(<span class="keyword">const</span> Image* image, <span class="keyword">const</span> <span class="keywordtype">char</span>* fileName,</div>
@@ -8766,7 +8766,7 @@ $(document).ready(function(){initNavTree('nivision_8h_source.html','');});
 <div class="line"><a name="l08690"></a><span class="lineno"> 8690</span>&#160;imaqFitEllipse(<span class="keyword">const</span> PointFloat* points, <span class="keywordtype">int</span> numPoints, BestEllipse* ellipse);</div>
 <div class="line"><a name="l08691"></a><span class="lineno"> 8691</span>&#160;IMAQ_FUNC <span class="keywordtype">int</span> IMAQ_STDCALL</div>
 <div class="line"><a name="l08692"></a><span class="lineno"> 8692</span>&#160;imaqFitCircle(<span class="keyword">const</span> PointFloat* points, <span class="keywordtype">int</span> numPoints, BestCircle* circle);</div>
-<div class="line"><a name="l08693"></a><span class="lineno"> 8693</span>&#160;IMAQ_FUNC <a class="code" href="union_color__union.html">Color</a> IMAQ_STDCALL imaqChangeColorSpace(<span class="keyword">const</span> <a class="code" href="union_color__union.html">Color</a>* sourceColor,</div>
+<div class="line"><a name="l08693"></a><span class="lineno"> 8693</span>&#160;IMAQ_FUNC Color IMAQ_STDCALL imaqChangeColorSpace(<span class="keyword">const</span> Color* sourceColor,</div>
 <div class="line"><a name="l08694"></a><span class="lineno"> 8694</span>&#160;                                                  ColorMode sourceSpace,</div>
 <div class="line"><a name="l08695"></a><span class="lineno"> 8695</span>&#160;                                                  ColorMode destSpace);</div>
 <div class="line"><a name="l08696"></a><span class="lineno"> 8696</span>&#160;IMAQ_FUNC PatternMatch* IMAQ_STDCALL</div>
@@ -8835,7 +8835,7 @@ $(document).ready(function(){initNavTree('nivision_8h_source.html','');});
 <div class="line"><a name="l08759"></a><span class="lineno"> 8759</span>&#160;imaqConvolve(Image* dest, Image* source, <span class="keyword">const</span> <span class="keywordtype">float</span>* kernel, <span class="keywordtype">int</span> matrixRows,</div>
 <div class="line"><a name="l08760"></a><span class="lineno"> 8760</span>&#160;             <span class="keywordtype">int</span> matrixCols, <span class="keywordtype">float</span> normalize, <span class="keyword">const</span> Image* mask);</div>
 <div class="line"><a name="l08761"></a><span class="lineno"> 8761</span>&#160;IMAQ_FUNC <span class="keywordtype">int</span> IMAQ_STDCALL</div>
-<div class="line"><a name="l08762"></a><span class="lineno"> 8762</span>&#160;imaqDivideConstant(Image* dest, <span class="keyword">const</span> Image* source, <a class="code" href="union_pixel_value__union.html">PixelValue</a> value);</div>
+<div class="line"><a name="l08762"></a><span class="lineno"> 8762</span>&#160;imaqDivideConstant(Image* dest, <span class="keyword">const</span> Image* source, PixelValue value);</div>
 <div class="line"><a name="l08763"></a><span class="lineno"> 8763</span>&#160;IMAQ_FUNC <span class="keywordtype">int</span> IMAQ_STDCALL</div>
 <div class="line"><a name="l08764"></a><span class="lineno"> 8764</span>&#160;imaqDivide(Image* dest, <span class="keyword">const</span> Image* sourceA, <span class="keyword">const</span> Image* sourceB);</div>
 <div class="line"><a name="l08765"></a><span class="lineno"> 8765</span>&#160;IMAQ_FUNC EdgeReport2* IMAQ_STDCALL</div>
@@ -8903,11 +8903,6 @@ $(document).ready(function(){initNavTree('nivision_8h_source.html','');});
 <div class="line"><a name="l08827"></a><span class="lineno"> 8827</span>&#160;                                                 <span class="keyword">const</span> <span class="keywordtype">unsigned</span> <span class="keywordtype">char</span>* <span class="keywordtype">string</span>,</div>
 <div class="line"><a name="l08828"></a><span class="lineno"> 8828</span>&#160;                                                 <span class="keywordtype">unsigned</span> <span class="keywordtype">int</span> stringLength);</div>
 <div class="line"><a name="l08829"></a><span class="lineno"> 8829</span>&#160;<span class="preprocessor">#endif</span></div>
-<div class="ttc" id="union_geometric_feature__union_html"><div class="ttname"><a href="union_geometric_feature__union.html">GeometricFeature_union</a></div><div class="ttdef"><b>Definition:</b> <a href="nivision_8h_source.html#l05697">nivision.h:5697</a></div></div>
-<div class="ttc" id="union_contour_union__union_html"><div class="ttname"><a href="union_contour_union__union.html">ContourUnion_union</a></div><div class="ttdef"><b>Definition:</b> <a href="nivision_8h_source.html#l06920">nivision.h:6920</a></div></div>
-<div class="ttc" id="union_color__union_html"><div class="ttname"><a href="union_color__union.html">Color_union</a></div><div class="ttdef"><b>Definition:</b> <a href="nivision_8h_source.html#l07036">nivision.h:7036</a></div></div>
-<div class="ttc" id="union_color2__union_html"><div class="ttname"><a href="union_color2__union.html">Color2_union</a></div><div class="ttdef"><b>Definition:</b> <a href="nivision_8h_source.html#l06181">nivision.h:6181</a></div></div>
-<div class="ttc" id="union_pixel_value__union_html"><div class="ttname"><a href="union_pixel_value__union.html">PixelValue_union</a></div><div class="ttdef"><b>Definition:</b> <a href="nivision_8h_source.html#l07048">nivision.h:7048</a></div></div>
 </div><!-- fragment --></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->

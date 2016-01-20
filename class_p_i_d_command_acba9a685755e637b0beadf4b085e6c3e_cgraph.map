@@ -1,0 +1,5 @@
+<map id="PIDCommand::InitTable" name="PIDCommand::InitTable">
+<area shape="rect" id="node2" href="$class_command.html#a366beeb3fb4607ee928f4be91d8418ee" title="Command::InitTable" alt="" coords="216,31,356,57"/>
+<area shape="rect" id="node3" href="$class_command.html#a9d127eb1d205acc6d4cef070e2049436" title="Command::GetName" alt="" coords="405,5,552,32"/>
+<area shape="rect" id="node4" href="$class_command.html#aa75c36ffcfd20a172306750bc1db2a95" title="Command::IsRunning" alt="" coords="404,56,553,83"/>
+</map>

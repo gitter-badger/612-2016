@@ -1,0 +1,7 @@
+<map id="DoubleSolenoid::DoubleSolenoid" name="DoubleSolenoid::DoubleSolenoid">
+<area shape="rect" id="node2" href="$class_sensor_base.html#aacc7c789e0b8dd975aad71c78be4f308" title="SensorBase::CheckSolenoid\lModule" alt="" coords="265,5,455,47"/>
+<area shape="rect" id="node3" href="$class_sensor_base.html#a993f47bc7770a3a25ab45b13a9bd6488" title="SensorBase::CheckSolenoid\lChannel" alt="" coords="265,71,455,112"/>
+<area shape="rect" id="node4" href="$class_resource.html#a6c67fc24ced6eda139ee9d9119b77362" title="Resource::CreateResource\lObject" alt="" coords="269,136,451,177"/>
+<area shape="rect" id="node5" href="$class_live_window.html#a329c07efec22a0e0644d70279688aa35" title="LiveWindow::GetInstance" alt="" coords="274,202,446,229"/>
+<area shape="rect" id="node6" href="$class_live_window.html#af14f0c1966b49041b2cb01e5669c58b3" title="Use a raw pointer to the LiveWindow. " alt="" coords="273,253,447,279"/>
+</map>

@@ -137,7 +137,7 @@ HistogramReport *&#160;</td><td class="memItemRight" valign="bottom"><b>frcHisto
 <tr class="memitem:a2db5963c52c3b59dd77505c2eeac1801"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a2db5963c52c3b59dd77505c2eeac1801"></a>
 ColorHistogramReport *&#160;</td><td class="memItemRight" valign="bottom"><b>frcColorHistogram</b> (const Image *image, int numClasses, ColorMode mode, Image *mask)</td></tr>
 <tr class="separator:a2db5963c52c3b59dd77505c2eeac1801"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab9abbdaaf162eb7e3a2b7f897d99bda2"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="_vision_a_p_i_8cpp.html#ab9abbdaaf162eb7e3a2b7f897d99bda2">frcGetPixelValue</a> (const Image *image, Point pixel, <a class="el" href="union_pixel_value__union.html">PixelValue</a> *value)</td></tr>
+<tr class="memitem:ab9abbdaaf162eb7e3a2b7f897d99bda2"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="_vision_a_p_i_8cpp.html#ab9abbdaaf162eb7e3a2b7f897d99bda2">frcGetPixelValue</a> (const Image *image, Point pixel, PixelValue *value)</td></tr>
 <tr class="memdesc:ab9abbdaaf162eb7e3a2b7f897d99bda2"><td class="mdescLeft">&#160;</td><td class="mdescRight">Measures the pixel intensities in a rectangle of an image. Outputs intensity based statistics about an image such as Max, Min, Mean and Std Dev of pixel value. Supports IMAQ_IMAGE_U8 (grayscale) IMAQ_IMAGE_RGB (color) IMAQ_IMAGE_HSL (color-HSL).  <a href="#ab9abbdaaf162eb7e3a2b7f897d99bda2">More...</a><br /></td></tr>
 <tr class="separator:ab9abbdaaf162eb7e3a2b7f897d99bda2"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a6c7d3c77feb2ae8b41ddeb68b7165441"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="_vision_a_p_i_8cpp.html#a6c7d3c77feb2ae8b41ddeb68b7165441">frcParticleFilter</a> (Image *dest, Image *source, const ParticleFilterCriteria2 *criteria, int criteriaCount, const ParticleFilterOptions *options, int *numParticles)</td></tr>
@@ -829,7 +829,7 @@ int&#160;</td><td class="memItemRight" valign="bottom"><b>VisionAPI_debugFlag</b
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="union_pixel_value__union.html">PixelValue</a> *&#160;</td>
+          <td class="paramtype">PixelValue *&#160;</td>
           <td class="paramname"><em>value</em>&#160;</td>
         </tr>
         <tr>
@@ -1043,6 +1043,15 @@ int&#160;</td><td class="memItemRight" valign="bottom"><b>VisionAPI_debugFlag</b
 <dl class="section return"><dt>Returns</dt><dd>On success: 1. On failure: 0. To get extended error information, call GetLastError(). </dd></dl>
 
 <p>Definition at line <a class="el" href="_vision_a_p_i_8cpp_source.html#l00437">437</a> of file <a class="el" href="_vision_a_p_i_8cpp_source.html">VisionAPI.cpp</a>.</p>
+
+<p><div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="_vision_a_p_i_8cpp_af4025ecebedaa2022636451258087a27_cgraph.png" border="0" usemap="#_vision_a_p_i_8cpp_af4025ecebedaa2022636451258087a27_cgraph" alt=""/></div>
+<map name="_vision_a_p_i_8cpp_af4025ecebedaa2022636451258087a27_cgraph" id="_vision_a_p_i_8cpp_af4025ecebedaa2022636451258087a27_cgraph">
+<area shape="rect" id="node2" href="_bae_utilities_8cpp.html#a8dcb20f4647e9ba4175d7a1973859ca2" title="Normalizes a value in a range, used for drive input. " alt="" coords="184,5,325,32"/></map>
+</div>
+</p>
 
 </div>
 </div>

@@ -1,0 +1,4 @@
+<map id="AnalogAccelerometer::InitTable" name="AnalogAccelerometer::InitTable">
+<area shape="rect" id="node2" href="$class_analog_accelerometer.html#aee14ff3ef7c67679d595b93ee7d50fb6" title="AnalogAccelerometer\l::UpdateTable" alt="" coords="200,5,347,47"/>
+<area shape="rect" id="node3" href="$class_analog_accelerometer.html#a5dd3b46f801e5ac4ada023f2e1dd626c" title="AnalogAccelerometer\l::GetAcceleration" alt="" coords="395,5,541,47"/>
+</map>

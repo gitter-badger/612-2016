@@ -1,0 +1,5 @@
+<map id="Servo::Servo" name="Servo::Servo">
+<area shape="rect" id="node2" href="$class_p_w_m.html#ad207a051a1a7cde481a830fdd88bc941" title="PWM::SetBounds" alt="" coords="175,5,301,32"/>
+<area shape="rect" id="node4" href="$class_p_w_m.html#a274fbac1ce527d1b08fab2ef4d66c35b" title="PWM::SetPeriodMultiplier" alt="" coords="152,56,324,83"/>
+<area shape="rect" id="node3" href="$class_error_base.html#a05790f219c9e436a09752f73f7344024" title="Check if the current error code represents a fatal error. " alt="" coords="372,31,539,57"/>
+</map>

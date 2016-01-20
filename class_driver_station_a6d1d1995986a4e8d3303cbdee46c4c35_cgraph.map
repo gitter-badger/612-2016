@@ -1,0 +1,4 @@
+<map id="DriverStation::GetInstance" name="DriverStation::GetInstance">
+<area shape="rect" id="node2" href="$class_driver_station.html#a343945cc9bbf870e0ada94b47f3fec92" title="DriverStation::DriverStation" alt="" coords="231,5,413,32"/>
+<area shape="rect" id="node3" href="$class_sensor_base.html#a97a6a31683483f3fe3f6f1d971ca9615" title="SensorBase::AddToSingletonList" alt="" coords="461,5,676,32"/>
+</map>

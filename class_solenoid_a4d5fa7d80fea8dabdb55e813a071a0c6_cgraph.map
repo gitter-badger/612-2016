@@ -1,0 +1,6 @@
+<map id="Solenoid::InitTable" name="Solenoid::InitTable">
+<area shape="rect" id="node2" href="$class_solenoid.html#a150a157619f3f1572d5481cf85290ba8" title="Solenoid::UpdateTable" alt="" coords="184,31,339,57"/>
+<area shape="rect" id="node3" href="$class_solenoid.html#a427ba2f18d3180a0facc886cbbf08a20" title="Solenoid::Get" alt="" coords="387,31,488,57"/>
+<area shape="rect" id="node4" href="$class_error_base.html#a05790f219c9e436a09752f73f7344024" title="Check if the current error code represents a fatal error. " alt="" coords="536,5,703,32"/>
+<area shape="rect" id="node5" href="$class_solenoid_base.html#a8c941685c87484243cd4a7232d5a18bf" title="SolenoidBase::GetAll" alt="" coords="546,56,693,83"/>
+</map>

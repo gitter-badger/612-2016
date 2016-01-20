@@ -1,0 +1,4 @@
+<map id="AnalogTriggerOutput::AnalogTriggerOutput" name="AnalogTriggerOutput::AnalogTriggerOutput">
+<area shape="rect" id="node2" href="$class_analog_trigger.html#af623857aae48bd0639fba22189bf5161" title="AnalogTrigger::GetIndex" alt="" coords="203,13,365,39"/>
+<area shape="rect" id="node3" href="$class_error_base.html#a05790f219c9e436a09752f73f7344024" title="Check if the current error code represents a fatal error. " alt="" coords="413,13,580,39"/>
+</map>

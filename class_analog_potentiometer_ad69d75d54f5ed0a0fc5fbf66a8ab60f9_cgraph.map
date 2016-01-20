@@ -1,0 +1,4 @@
+<map id="AnalogPotentiometer::UpdateTable" name="AnalogPotentiometer::UpdateTable">
+<area shape="rect" id="node2" href="$class_analog_potentiometer.html#a66e95332693a1df15dca4e66020d3419" title="AnalogPotentiometer::Get" alt="" coords="196,13,368,39"/>
+<area shape="rect" id="node3" href="$class_controller_power.html#a407d69acf87b0689659160746c75f331" title="ControllerPower::GetVoltage5V" alt="" coords="416,13,620,39"/>
+</map>

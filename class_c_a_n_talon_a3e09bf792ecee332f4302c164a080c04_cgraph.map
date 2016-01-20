@@ -1,0 +1,4 @@
+<map id="CANTalon::PIDWrite" name="CANTalon::PIDWrite">
+<area shape="rect" id="node2" href="$class_c_a_n_talon.html#a88a2ca8ee0b6ea5f9b2e8de21c5e51e1" title="CANTalon::GetControlMode" alt="" coords="199,5,385,32"/>
+<area shape="rect" id="node3" href="$class_c_a_n_talon.html#ac3549186d2e6fdeeaabbd1648f31e02c" title="CANTalon::Set" alt="" coords="237,56,347,83"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Servo::InitTable" name="Servo::InitTable">
+<area shape="rect" id="node2" href="$class_servo.html#a9d6beaae10b2487addcb612af8c5fad7" title="Servo::UpdateTable" alt="" coords="168,5,307,32"/>
+<area shape="rect" id="node3" href="$class_servo.html#a1ba60fe654fa7c25db77392e1d544427" title="Servo::Get" alt="" coords="355,5,440,32"/>
+<area shape="rect" id="node4" href="$class_p_w_m.html#a1db256edc93c9aff1134b68e5c9e58ab" title="PWM::GetPosition" alt="" coords="488,5,619,32"/>
+<area shape="rect" id="node5" href="$class_error_base.html#a05790f219c9e436a09752f73f7344024" title="Check if the current error code represents a fatal error. " alt="" coords="825,5,992,32"/>
+<area shape="rect" id="node6" href="$class_p_w_m.html#ac9f152efbdc725470f011b956e24dff9" title="PWM::GetRaw" alt="" coords="667,31,777,57"/>
+</map>

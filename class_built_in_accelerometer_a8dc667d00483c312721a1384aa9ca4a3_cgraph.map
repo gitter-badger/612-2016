@@ -1,0 +1,6 @@
+<map id="BuiltInAccelerometer::InitTable" name="BuiltInAccelerometer::InitTable">
+<area shape="rect" id="node2" href="$class_built_in_accelerometer.html#a53a680a821a8637de0b3eda99b364070" title="BuiltInAccelerometer\l::UpdateTable" alt="" coords="196,71,339,112"/>
+<area shape="rect" id="node3" href="$class_built_in_accelerometer.html#a78d0459bcb2b122ed52056e7a45b85c4" title="BuiltInAccelerometer\l::GetX" alt="" coords="387,5,529,47"/>
+<area shape="rect" id="node4" href="$class_built_in_accelerometer.html#a871a725649d650141950b0503ca844d1" title="BuiltInAccelerometer\l::GetY" alt="" coords="387,71,529,112"/>
+<area shape="rect" id="node5" href="$class_built_in_accelerometer.html#a2910a4a26e07599c2432683fe740b713" title="BuiltInAccelerometer\l::GetZ" alt="" coords="387,136,529,177"/>
+</map>

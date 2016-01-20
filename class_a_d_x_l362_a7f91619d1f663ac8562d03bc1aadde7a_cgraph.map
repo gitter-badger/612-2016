@@ -1,0 +1,7 @@
+<map id="ADXL362::UpdateTable" name="ADXL362::UpdateTable">
+<area shape="rect" id="node2" href="$class_a_d_x_l362.html#a3007ee1c081713a977f7b5b709d92125" title="ADXL362::GetX" alt="" coords="213,5,329,32"/>
+<area shape="rect" id="node5" href="$class_a_d_x_l362.html#a461ea37895f48bdbd48e181b2794c394" title="ADXL362::GetY" alt="" coords="213,56,329,83"/>
+<area shape="rect" id="node6" href="$class_a_d_x_l362.html#ae04b8bd77f4d2eaeb706a1ffca848aba" title="ADXL362::GetZ" alt="" coords="214,107,329,133"/>
+<area shape="rect" id="node3" href="$class_a_d_x_l362.html#a33cd1cb09f09b70071358656832614fc" title="ADXL362::GetAcceleration" alt="" coords="377,56,556,83"/>
+<area shape="rect" id="node4" href="$class_s_p_i.html#a57e9c8cac374878879b32f43667e1e09" title="SPI::Transaction" alt="" coords="604,56,724,83"/>
+</map>

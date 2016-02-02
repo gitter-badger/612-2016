@@ -4,7 +4,7 @@
 #include <string>
 #include "Commands/Command.h"
 #include "Subsystems/ExampleSubsystem.h"
-#include "Subsystem/Shooter.h"
+#include "Subsystems/Shooter.h"
 #include "OI.h"
 #include "WPILib.h"
 

@@ -3,6 +3,7 @@
 
 #include "../CommandBase.h"
 #include "../Subsystems/Shooter.h"
+#include "Robot.h"
 #include "WPILib.h"
 
 class FlywheelIntake: public CommandBase

@@ -4,7 +4,7 @@ FlywheelIntake::FlywheelIntake()
 {
 	// Use Requires() here to declare subsystem dependencies
 	// eg. Requires(chassis);
-	Requires((Subsystem*) Robot::shooter);
+	Requires(&*Robot::shooter);
 }
 
 // Called just before this Command runs the first time

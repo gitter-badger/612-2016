@@ -67,6 +67,9 @@ void Robot::AutonomousPeriodic()
 
 void Robot::TeleopInit()
 {
+	printf("Yaw: %f", RobotMap::navx.GetYaw());
+	printf("Pitch: %f", RobotMap::navx.GetPitch());
+	printf("Roll: %f\n", RobotMap::navx.GetRoll());
 	// This makes sure that the autonomous stops running when
 	// teleop starts running. If you want the autonomous to
 	// continue until interrupted by another command, remove
